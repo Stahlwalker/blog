@@ -2,7 +2,7 @@
 title: The Road So Far... 
 date: 2018-03-30 12:52
 image: https://udemy-images.udemy.com/course/750x422/625204_436a_2.jpg
-lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request - a price we could avoid paying entirely when this kind of complexity is not needed." 
+lead: "Web programming bootcamps are huge investments, make sure you are in the know before enrolling." 
 subtitle: Web programming bootcamps vs online udemy courses
 ---
 Here is what I've learned so far:
