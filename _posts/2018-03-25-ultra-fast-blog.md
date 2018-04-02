@@ -1,7 +1,7 @@
 ---
 title: Example 3
 date: 2018-03-26 6:00
-image: http://placehold.it/900x300
+image: https://placehold.it/900x300
 lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request - a price we could avoid paying entirely when this kind of complexity is not needed." 
 subtitle: create an ultra fast, secure blog that is easy to maintain and easy to scale
 ---
