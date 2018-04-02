@@ -3,7 +3,7 @@ title: Tech News
 date: 2018-03-30 12:52
 image: https://highergroundcg.com/wp-content/uploads/2015/09/Minimalist.jpg
 lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request - a price we could avoid paying entirely when this kind of complexity is not needed." 
-subtitle: create an ultra fast, secure blog that is easy to maintain and easy to scale
+subtitle: Welcom to my first blog post
 ---
 Some of the benefits of a static website generators are that they are:
 
