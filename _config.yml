@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Stahlwalker
 email: Stahl1109@gmail.com
-description: "This is only a test."
+description: "This is a blog about technology."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stahlwalker.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: LucasStahl11
+github_username:  Stahlwalker
 
 # Build settings
 markdown: kramdown
@@ -37,7 +37,7 @@ defaults:
     values: 
       layout: "post"
       author: "Lucas Stahl"
-      category: "jekyll"
+      category: "Tech"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
