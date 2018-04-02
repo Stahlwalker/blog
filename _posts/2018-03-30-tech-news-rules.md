@@ -1,7 +1,7 @@
 ---
 title: Tech News
 date: 2018-03-30 12:52
-image: http://highergroundcg.com/wp-content/uploads/2015/09/Minimalist.jpg
+image: https://highergroundcg.com/wp-content/uploads/2015/09/Minimalist.jpg
 lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request - a price we could avoid paying entirely when this kind of complexity is not needed." 
 subtitle: create an ultra fast, secure blog that is easy to maintain and easy to scale
 ---
