@@ -23,8 +23,8 @@ github_username:  Stahlwalker
 
 # Build settings
 markdown: kramdown
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 permalink: none
 comments: true
