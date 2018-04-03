@@ -5,23 +5,31 @@
     <description>This is a blog about technology.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Apr 2018 18:55:15 -0500</pubDate>
-    <lastBuildDate>Mon, 02 Apr 2018 18:55:15 -0500</lastBuildDate>
+    <pubDate>Tue, 03 Apr 2018 08:40:15 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Apr 2018 08:40:15 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>The Road So Far...</title>
         <description>&lt;p&gt;Here is what I’ve learned so far:&lt;/p&gt;
 
-&lt;p&gt;I’ve spent the last 4.5 months attending a Northwestern University Web Programming Bootcamp and here are a couple key takeaways for those interested.&lt;/p&gt;
+&lt;p&gt;I’ve spent the last 4.5 months attending a Northwestern University Web Programming Bootcamp and here are a couple key takeaways for those thinking about becoming a web developer.&lt;/p&gt;
 
-&lt;p&gt;While attending this Bootcamp, I have been doubling down on Udemy courses to further understand the why we program this way and that way.  Northwestern does a good job of showing you the how but not necessarily the why.  The Bootcamp alone isn’t enough, and the idea that it’s for beginners is misleading.  For those looking to learn web programming, I’d suggest taking an online Bootcamp on Udemy for $20 versus the financial investment of a six-month program.&lt;/p&gt;
+&lt;p&gt;While attending this Bootcamp, I have been doubling down on Udemy courses to further understand the why behind the how.  Northwestern does a good job of showing you how to code but not necessarily the why this coding language is used.  Northwestern’s Bootcamp alone wasn’t enough, and the idea that it’s for beginners is incredibly misleading.  For those looking to learn web programming, I’d suggest taking an online Bootcamp on Udemy for $20 versus the financial investment of a six-month program.&lt;/p&gt;
 
-&lt;p&gt;If I could go back and do things over again, I would have spent more time on pre-work.  I don’t think it was emphasized enough that you should have basic knowledge of x,y,z.  If I had a time machine, I would have taken a Udemy Bootcamp prior to the physical Bootcamp at Northwestern.&lt;/p&gt;
+&lt;p&gt;If I could go back and do things over again, I would spend more time building my foundation. There are hundreds of resources out there but I highly recommend Udemy. The ability to bookmark your notes and have lifetime access is a great reference.&lt;/p&gt;
 
-&lt;p&gt;The pros regarding Northwestern’s Bootcamp fall on the workload.  Students are forced to put in the work at an incredibly face pace.  With online bootcamps students can learn at their own rate, it doesn’t work that way with a 6-month program.&lt;/p&gt;
+&lt;p&gt;The pros regarding Northwestern’s Bootcamp fall on the workload.  Students are forced to put in the work at an incredibly fast pace. With online Bootcamps students can learn at their own pace, it doesn’t work that way with a 6-month program. Also, having the ability to work with others, on activities and projects is a major plus. Northwestern also offers tutoring sessions weekly which allows you to video conference an expert to bounce questions off of. These are all great resources.&lt;/p&gt;
 
-&lt;p&gt;It’s important to know that because this program is only 6 months, they do run on a pretty strict schedule.  If you think you are going to get all your answers questioned you are mistaken.  They simply do not have the time to stay on one subject for too long.  That is where the how comes in and not the why.  There simply isn’t enough time.  I think less activities and more teaching would be better suited for this program, but that is personal opinion.  My advice, bulk up a lot prior to taking a Bootcamp and I mean a lot.  The more you know the better because it is definitely not a beginner’s course.  Lastly, enroll in an online Bootcamp that mirrors the Bootcamp you are taking in order to get the how and not just the why.  Take it from someone who has spent the last couple months playing catch up with online tutorials and attending “office hours” before each class.  It is not enough to take one, you need a little bit of both.&lt;/p&gt;
+&lt;p&gt;What I would change:&lt;/p&gt;
+
+&lt;p&gt;It’s important to know that because this program is only 6 months, they do run on a pretty strict schedule. If you think you are going to get all your questions answered you are mistaken. They simply do not have the time to stay on one subject for too long. That is where the how comes in and not the why. There simply isn’t enough time. I think less activities and more teaching would be better suited for this program, but that is personal opinion. My advice, bulk up prior to taking a Bootcamp and I mean a lot. The more you know the better because it is definitely not a beginner’s course. Lastly, enroll in an online Bootcamp that mirrors the Bootcamp you are taking in order to get the why and not just the how.  Take it from someone who has spent the last couple months playing catch up with online tutorials and attending “office hours” before each class.  It is not enough to take one, you need a little bit of both.&lt;/p&gt;
+
+&lt;p&gt;The great thing is we have these tutorials readily available for us and if you are like me, you’ll find yourself with a never-ending wish list of tutorials once you get going.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;-Man of Stahl&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Mon, 02 Apr 2018 02:52:00 -0500</pubDate>
@@ -41,7 +49,7 @@
   &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; - Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman’s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt;: Science cuts two ways, of course; its products can be used for both good and evil. But there’s no turning back from science. The early warnings about technological dangers also come from science.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Secure&lt;/strong&gt;, What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Have versioning&lt;/strong&gt; - A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That’s how I felt seeing the Earth for the first time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Have versioning&lt;/strong&gt; -That’s how I felt seeing the Earth for the first time.&lt;/li&gt;
   &lt;li&gt;I could not help but love and cherish her.
 -Uses &lt;strong&gt;markdown&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Previewable&lt;/strong&gt;: For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/li&gt;
