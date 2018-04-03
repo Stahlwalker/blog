@@ -37,6 +37,10 @@ layout: default
                     
     
                     <hr>
+                    <div class="post-content" itemprop="articleBody">
+                        {% include share-bar.html %}
+                    </div>
+                    <hr>
     
                     <!-- Post Content -->
                     {% if page.lead %}
@@ -87,10 +91,6 @@ layout: default
                         {% endfor %}
                
         </div>
-        
-          <div class="post-content" itemprop="articleBody">
-            {% include share-bar.html %}
-          </div>
 
     </article>
 
