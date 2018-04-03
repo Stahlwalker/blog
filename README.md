@@ -1,6 +1,6 @@
 # Stahlwalker
 
-![This is a screen shot of text file results](https://github.com/Stahlwalker/lucasstahl/blob/master/assets/images/lucasstahl.png)
+![This is a screen shot of text file results](https://github.com/Stahlwalker/blog/blob/gh-pages/img/blog.png)
 
 ## What the project does?
     * This project is a personal tech blog built with jekyll.  
