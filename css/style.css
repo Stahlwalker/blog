@@ -876,3 +876,7 @@ footer .footer-manu ul li a:hover {
 .fa-linkedin:hover {
   background-color: #007bb5;
 }
+
+#rss {
+  text-align: right;
+}
