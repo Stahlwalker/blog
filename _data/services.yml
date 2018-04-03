@@ -12,7 +12,7 @@
   
 - icon: "ion-bug"
   title: "Debugging"
-  content: "I can review broken code and debug issues"
+  content: "Review broken code and debug issues"
   
 # - icon: "ion-headphone"
 #   title: "Logo Design"
@@ -20,7 +20,7 @@
   
 - icon: "ion-document-text"
   title: "Development"
-  content: "Full stack web developer."
+  content: "Full stack web developer"
 
 - icon: "ion-happy"
   title: "Brand Identity"
