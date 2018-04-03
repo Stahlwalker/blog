@@ -37,11 +37,7 @@ layout: default
                     
     
                     <hr>
-                    <div class="post-content" itemprop="articleBody">
-                        {% include share-bar.html %}
-                    </div>
-                    <hr>
-    
+                
                     <!-- Post Content -->
                     {% if page.lead %}
                     <p class="lead">{{ page.lead }}</p>
@@ -49,6 +45,10 @@ layout: default
                     
                    {{ page.content }}
     
+                    <hr>
+                    <div class="post-content" itemprop="articleBody">
+                        {% include share-bar.html %}
+                    </div>
                     <hr>
                     {% if site.comments %}
                     {% include comments.html %}
