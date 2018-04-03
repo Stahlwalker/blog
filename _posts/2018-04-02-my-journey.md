@@ -21,6 +21,6 @@ It's important to know that because this program is only 6 months, they do run o
 
 The great thing is we have these tutorials readily available for us and if you are like me, you'll find yourself with a never-ending wish list of tutorials once you get going.  
 
-                  
-- Man of Stahl    
+- **-Man of Stahl**         
+ 
     
