@@ -17,7 +17,7 @@ title: Stahlwalker
 email: Stahl1109@gmail.com
 description: "This is a blog about technology."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stahlwalker.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stahlwalker.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LucasStahl11
 github_username:  Stahlwalker
 
