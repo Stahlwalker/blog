@@ -880,3 +880,9 @@ footer .footer-manu ul li a:hover {
 #rss {
   text-align: right;
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: rgb(122, 200, 236);
+  border-color: #357ebd;
+}
