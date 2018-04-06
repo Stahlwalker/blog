@@ -7,8 +7,16 @@
     <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
     <meta name="description" content="Tech blog for web programmers and marketers.">
     <meta name="keywords" content="Coding, Programming, Web, Design, Marketing, Digital, Debugging, Stahlwalker, Brand, Developer, Development, Technology, Blog, Media">
+    <base href="{{ site.url }}">
+
+    <!-- <base href="https://stahlwalker.github.io/blog/"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
+    {% feed_meta %}
    
-<!-- Facebook Open Graph -->
+
+    <!-- Facebook Open Graph -->
     <meta property="og:title" content="Stahlwalker" />
     <meta property="og:description" content="Tech blog for web programmers and marketers." />
         <meta property="og:image" content="https://stahlwalker.github.io/blog/img/Superman-Free.png" />
@@ -19,16 +27,6 @@
     <meta property="og:type" content="website" />
 
 
-
-    <base href="{{ site.url }}">
-
-
-    <!-- <base href="https://stahlwalker.github.io/blog/"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
-    {% feed_meta %}
-   
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
