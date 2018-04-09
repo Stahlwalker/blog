@@ -897,5 +897,5 @@ footer .footer-manu ul li a:hover {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 8px solid rgb(94, 94, 94);
+    border-top: 4px dotted rgb(125, 124, 124);
 }
