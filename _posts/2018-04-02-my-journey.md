@@ -1,7 +1,7 @@
 ---
 title: The Road So Far... 
 date: 2018-04-02 2:52
-image: https://udemy-images.udemy.com/course/750x422/625204_436a_2.jpg?123
+image: https://udemy-images.udemy.com/course/750x422/625204_436a_2.jpg
 lead: "Web Programming Boot Camps are huge investments, make sure you are in the know before enrolling." 
 subtitle: Web Programming Boot Camps vs online Udemy courses
 ---
