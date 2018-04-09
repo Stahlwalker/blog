@@ -5,7 +5,7 @@ image: https://udemy-images.udemy.com/course/750x422/625204_436a_2.jpg
 lead: "Web Programming Boot Camps are huge investments, make sure you are in the know before enrolling." 
 subtitle: Web Programming Boot Camps vs online Udemy courses
 ---
-####Here is what I've learned so far:
+#### Here is what I've learned so far:
 I've spent the last 4.5 months attending a Northwestern University Web Programming Boot Camp and here are a couple key takeaways for those thinking about becoming a web developer. 
 
 While attending this boot camp, I have been doubling down on Udemy courses to further understand the why behind the how.  Northwestern does a good job of showing you how to code but a poor job of explaining the why we use different programming languages.  Northwestern alone wasn't enough, and the idea that it's for beginners is incredibly misleading.  For those looking to learn web programming, I'd suggest taking an online boot camp on Udemy for $20 versus the financial investment of a physical six-month program.  
