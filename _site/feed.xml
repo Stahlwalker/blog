@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Apr 2018 13:20:20 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 13:20:20 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Apr 2018 13:22:01 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Apr 2018 13:22:01 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta content.  After I added the app id on the meta tag, I was able to validate with Facebook in their [Sharing Debugger] (https://developers.facebook.com/tools/debug/). The sharing debugger confirmed how my shared post would look, and it was accurate.&lt;/p&gt;
 
-&lt;p&gt;-&lt;strong&gt;Hooorayyyy, but wait, what about Twitter?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hooorayyyy, but wait, what about Twitter?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Twitter follows a similar path; however, you do not need to obtain a developer id. You can preview your shared post at their [Twitter Card Validator] ( https://cards-dev.twitter.com/validator).&lt;/p&gt;
 
