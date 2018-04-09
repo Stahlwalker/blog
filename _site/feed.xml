@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Apr 2018 14:32:45 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 14:32:45 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Apr 2018 16:29:58 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Apr 2018 16:29:58 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -14,19 +14,21 @@
         <description>&lt;h4 id=&quot;avoiding-the-rabbit-hole&quot;&gt;Avoiding the rabbit hole:&lt;/h4&gt;
 &lt;p&gt;I want to set the record straight right away and save you a lot of time, be aware of social cache. After implementing the share functionality, I made the mistake of testing my blog posts with Facebook, Twitter, and LinkedIn. I encountered a number of issues along the way.&lt;/p&gt;
 
-&lt;p&gt;First, the share functionality worked. The problem existed with the display, I wasn’t sharing the blog post image or post description, rather the websites main image and title.  After researching the web, I found that I needed to add metadata to specifically call out the meta content. I had to add metadata to include page title, description, url, and image.  Adding metadata wasn’t enough, I had to use Facebook Open Graph Tags.&lt;/p&gt;
+&lt;p&gt;First, the share functionality worked. The problem existed with the display, I wasn’t sharing the blog post image or post description, rather the websites main image and description.  After researching the web, I found that I needed to add metadata to specifically call out the meta content. I had to add metadata to include page title, description, URL, and image.  Adding metadata was just the beginning of my decent, I had to use Facebook Open Graph Tags as well.&lt;/p&gt;
 
-&lt;p&gt;In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta content.  After I added the app id on the meta tag, I was able to validate with Facebook in their &lt;a href=&quot;https://developers.facebook.com/tools/debug/&quot;&gt;Sharing Debugger&lt;/a&gt;. The sharing debugger confirmed how my shared post would look, and it was accurate.&lt;/p&gt;
+&lt;p&gt;In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta tag.  After I added the app id on the meta tag, I was able to validate with Facebook in their &lt;a href=&quot;https://developers.facebook.com/tools/debug/&quot;&gt;Sharing Debugger&lt;/a&gt;. The sharing debugger confirmed how my shared post would look, and it was accurate.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hooorayyyy, but wait, what about Twitter?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Twitter follows a similar path; however, you do not need to obtain a developer id. You can preview your shared post at their &lt;a href=&quot;https://cards-dev.twitter.com/validator&quot;&gt;Twitter Card Validator&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Twitter follows a similar path; however, you do not need to obtain a developer app id. You can preview your shared post at their &lt;a href=&quot;https://cards-dev.twitter.com/validator&quot;&gt;Twitter Card Validator&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Finding how to add the metadata was easy, not knowing social sites cache your initial post was the biggest hurdle to cross. Ultimately it will disrupt further attempts to share. Even if I went back and deleted the previously shared post via Twitter, LinkedIn or Facebook, the next time I shared that post it would populate the same incorrect post. That means, I was missing the image that corresponded with the post image, and the description, even though both validators previews we correct.&lt;/p&gt;
+&lt;p&gt;Searching how to add the metadata was easy, not knowing social sites cache your initial post was the biggest hurdle to cross. Ultimately it disrupted any further attempt to share. Even if I went back and deleted the previously shared post via Twitter, LinkedIn or Facebook, the next time I shared that post it populated the same incorrect post. That means, I was missing the image that corresponded with the post image, and the description, even though both validators we correct.&lt;/p&gt;
 
-&lt;p&gt;Lastly, I realized that whenever I upload a new blog, Facebook’s sharing debugger needs to scrape the url to obtain the meta tags and display it correctly. If I do not scrape each new blog post url Facebook will not recognize it and will not share it properly.&lt;/p&gt;
+&lt;p&gt;I realized that whenever I upload a new blog, Facebook’s sharing debugger needs to scrape the URL to obtain the meta tags and display it correctly. If I do not scrape each new blog post, Facebook will not recognize it and will not share it properly.&lt;/p&gt;
 
-&lt;p&gt;Key takeaway, for testing purposes, make sure you have completed your post before sharing. Once it has been shared, social media will cache it and you won’t see any future changes. It’s important to know that as long as you have the metadata and open graphs your followers or visitors will have no problem sharing your posts.&lt;/p&gt;
+&lt;p&gt;Key takeaway, for testing purposes, make sure you have completed your post before sharing. Once it has been shared, social media platforms will cache it and you won’t be given the opportunity to correct it. It’s important to know that as long as you have the metadata and open graphs your followers or visitors will have no problem sharing your posts. Without metadata the share ability is limited to your overall site, which will jeopardize your blog posts. Do you really want to share the same image and description over and over again? Metadata even with its hurdles and endless rabbit holes to climb down is an absolute must.&lt;/p&gt;
+
+&lt;p&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;-Man of Stahl&lt;/strong&gt;&lt;/li&gt;
