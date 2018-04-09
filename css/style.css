@@ -892,3 +892,10 @@ footer .footer-manu ul li a:hover {
   background-color: rgb(122, 200, 236);
   border-color: #357ebd;
 }
+
+#endHr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 8px solid rgb(37, 37, 37);
+}
