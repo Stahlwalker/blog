@@ -233,26 +233,24 @@
                     
                     
                    <ul>
-  <li>
-    <p><strong>Avoiding the rabbit hole:</strong>
-  I want to set the record straight right away and save you a lot of time, be aware of social cache. After implementing the share functionality, I made the mistake of testing my blog posts with Facebook, Twitter, and LinkedIn. I encountered a number of issues along the way.</p>
-
-    <p>First, the share functionality worked. The problem existed with the display, I wasn’t sharing the blog post image or post description, rather the websites main image and title.  After researching the web, I found that I needed to add metadata to specifically call out the meta content. I had to add metadata to include page title, description, url, and image.  Adding metadata wasn’t enough, I had to use Facebook Open Graph Tags.</p>
-
-    <p>In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta content.  After I added the app id on the meta tag, I was able to validate with Facebook in their [Sharing Debugger] (https://developers.facebook.com/tools/debug/). The sharing debugger confirmed how my shared post would look, and it was accurate.</p>
-  </li>
+  <li><strong>Avoiding the rabbit hole:</strong></li>
 </ul>
+
+<p>I want to set the record straight right away and save you a lot of time, be aware of social cache. After implementing the share functionality, I made the mistake of testing my blog posts with Facebook, Twitter, and LinkedIn. I encountered a number of issues along the way.</p>
+
+<p>First, the share functionality worked. The problem existed with the display, I wasn’t sharing the blog post image or post description, rather the websites main image and title.  After researching the web, I found that I needed to add metadata to specifically call out the meta content. I had to add metadata to include page title, description, url, and image.  Adding metadata wasn’t enough, I had to use Facebook Open Graph Tags.</p>
+
+<p>In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta content.  After I added the app id on the meta tag, I was able to validate with Facebook in their [Sharing Debugger] (https://developers.facebook.com/tools/debug/). The sharing debugger confirmed how my shared post would look, and it was accurate.</p>
 
 <p>-<strong>Hooorayyyy, but wait, what about Twitter?</strong></p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Twitter follows a similar path; however, you do not need to obtain a developer id. You can preview your shared post at their [Twitter Card Validator] ( https://cards-dev.twitter.com/validator). 
+<p>Twitter follows a similar path; however, you do not need to obtain a developer id. You can preview your shared post at their [Twitter Card Validator] ( https://cards-dev.twitter.com/validator).</p>
 
-Finding how to add the metadata was easy, not knowing social sites cache your initial post was the biggest hurdle to cross. Ultimately it will disrupt further attempts to share. Even if I went back and deleted the previously shared post via Twitter, LinkedIn or Facebook, the next time I shared that post it would populate the same incorrect post. That means, I was missing the image that corresponded with the post image, and the description, even though both validators previews we correct.   
+<p>Finding how to add the metadata was easy, not knowing social sites cache your initial post was the biggest hurdle to cross. Ultimately it will disrupt further attempts to share. Even if I went back and deleted the previously shared post via Twitter, LinkedIn or Facebook, the next time I shared that post it would populate the same incorrect post. That means, I was missing the image that corresponded with the post image, and the description, even though both validators previews we correct.</p>
 
-Lastly, I realized that whenever I upload a new blog, Facebook’s sharing debugger needs to scrape the url to obtain the meta tags and display it correctly. If I do not scrape each new blog post url Facebook will not recognize it and will not share it properly.  
+<p>Lastly, I realized that whenever I upload a new blog, Facebook’s sharing debugger needs to scrape the url to obtain the meta tags and display it correctly. If I do not scrape each new blog post url Facebook will not recognize it and will not share it properly.</p>
 
-Key takeaway, for testing purposes, make sure you have completed your post before sharing. Once it has been shared, social media will cache it and you won’t see any future changes. It’s important to know that as long as you have the metadata and open graphs your followers or visitors will have no problem sharing your posts.  
-</code></pre></div></div>
+<p>Key takeaway, for testing purposes, make sure you have completed your post before sharing. Once it has been shared, social media will cache it and you won’t see any future changes. It’s important to know that as long as you have the metadata and open graphs your followers or visitors will have no problem sharing your posts.</p>
 
 <ul>
   <li><strong>-Man of Stahl</strong></li>
