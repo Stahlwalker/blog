@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js">
   <head>
+    <!-- https -->
+    <script type="text/javascript">
+      var host = "stahlwalker.org"; 
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
     <meta charset="utf-8">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
