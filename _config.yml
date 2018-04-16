@@ -27,7 +27,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-permalink: none
+permalink: /:categories/:title
 comments: true
 
 defaults:

@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Apr 2018 07:38:24 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2018 07:38:24 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Apr 2018 07:53:58 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2018 07:53:58 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -36,8 +36,8 @@
 
 </description>
         <pubDate>Mon, 09 Apr 2018 11:32:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/meta-data.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/meta-data.html</guid>
+        <link>http://localhost:4000/tech/meta-data</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/meta-data</guid>
         
         
         <category>Tech</category>
@@ -69,8 +69,8 @@
 
 </description>
         <pubDate>Mon, 02 Apr 2018 02:52:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/my-journey.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/my-journey.html</guid>
+        <link>http://localhost:4000/tech/my-journey</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/my-journey</guid>
         
         
         <category>Tech</category>
