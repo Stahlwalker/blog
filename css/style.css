@@ -904,3 +904,26 @@ footer .footer-manu ul li a:hover {
 	padding-bottom: 0px;
 	border-radius: 40px;
 }
+
+.well2 {
+  min-height: 20px;
+  padding: 19px;
+  background: linear-gradient(to bottom left, #b9b9b9, rgb(6, 6, 6));
+  /* background: url("../img/internet.jpg") no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  height: auto; */
+  /* background-attachment: fixed; */
+  background-position: center;
+  color: white;
+  /* margin-bottom: 20px; */
+  /* background-color: #deeff7; */
+  border: 1px solid #6a6b6a;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+
+a {
+  color: #2596f7
+}
