@@ -934,3 +934,17 @@ footer .footer-manu ul li a:hover {
 .archive-link{
   font-size: 24px;
 }
+#thankImg {
+  border-radius: 30%;
+  width: 100%;
+  padding-top: 20px;
+}
+
+#thank {
+  font-size: 24px;
+}
+
+#archImg {
+  width: 100%;
+  padding-top: 20px;
+}
