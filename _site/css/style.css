@@ -816,7 +816,6 @@ footer .footer-manu ul li a:hover {
   color: #000;
 }
 
-
 /* Share Bar */
 #share-bar {
   font-size: 20px;
@@ -955,3 +954,7 @@ footer .footer-manu ul li a:hover {
   padding-bottom: 35px;
   /* height: 820px; */
 }
+
+/* loc:link {
+  text-decoration: none;
+} */
