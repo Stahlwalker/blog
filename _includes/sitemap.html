@@ -5,7 +5,7 @@
     <hr>
     {% for post in site.posts %}
     <url>
-        <loc> <a href>{{site.url}}{{ post.url | remove: 'index.html' }}</a> <hr></loc>
+        <loc> {{site.url}}{{ post.url | remove: 'index.html' }} <hr></loc>
     </url>
     {% endfor %}
    
@@ -14,7 +14,7 @@
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
-        <loc> <a href>{{site.url}}{{ page.url | remove: 'index.html' }}</a>  <hr></loc>
+        <loc>{{site.url}}{{ page.url | remove: 'index.html' }}  <hr></loc>
     </url>
     {% endif %}
     {% endif %}
