@@ -25,21 +25,25 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <br>
+    <h4>Pages</h4>
+    <br>
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'feed' %}
+    <url>
+        <loc> <a href="{{site.url}}{{ page.url}}">{{page.title}} </a> <hr></loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    <br>
+    <h4>Blog Posts</h4>
     <hr>
     {% for post in site.posts %}
     <url>
         <loc> <a href="{{site.url}}{{ post.url}}">{{site.url}}{{post.url}}</a><hr></loc>
     </url>
-    {% endfor %}
-   
-
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc> <a href="{{site.url}}{{ page.url}}">{{site.url}}{{page.url}} </a> <hr></loc>
-    </url>
-    {% endif %}
-    {% endif %}
     {% endfor %}
 </urlset>
