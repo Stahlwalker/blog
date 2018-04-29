@@ -38,12 +38,12 @@
     {% endif %}
     {% endfor %}
 
-    <br>
+    
     <h4>Blog Posts</h4>
     <hr>
     {% for post in site.posts %}
     <url>
-        <loc> <a href="{{site.url}}{{ post.url}}">{{site.url}}{{post.url}}</a><hr></loc>
+        <loc> <a href="{{site.url}}{{ post.url}}">{{post.title}}</a><hr></loc>
     </url>
     {% endfor %}
 </urlset>
