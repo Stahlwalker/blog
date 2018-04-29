@@ -50,6 +50,13 @@ layout: default
                     
                    {{ page.content }}
     
+                   <span>
+                    {% for tag in page.tags %}
+                      {% capture tag_name %}{{ tag }}{% endcapture %}
+                      <a href="/archive"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                    {% endfor %}
+                  </span>
+
                     <hr>
                     <div class="post-content" itemprop="articleBody">
                         {% include share-bar.html %}
