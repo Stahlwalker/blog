@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Apr 2018 11:35:42 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 11:35:42 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Apr 2018 11:40:13 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 11:40:13 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -26,7 +26,7 @@
     &lt;p&gt;Privacy Policy and Terms of Use are additional needs for every site because it gives the site owner the opportunity to express how they are using their site to collect data. It’s important to let your visitors know where they can read up on your sites privacy policy because collecting individual’s data without informing them can lead to legal issues later down the road. Adding the privacy policy to the footer is a best practice and incredibly important. Regarding Terms of Use, I lumped these two together because they almost go hand-in-hand. Terms of Use is another great section for explaining how you are using third parties such as Google Analytics to collect data. Additionally, there are great free generators out there for building privacy policy html files and terms of use html files. Once you have those files you can add them to whatever project you are working on. I have added them in the resource section below.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;One that isn’t required but is a nice touch is a Site Map. Every page should have an XML site map file that exists in the root directory of your project. Once again there is a generator for creating a &lt;a href=&quot;https://www.xml-sitemaps.com/&quot;&gt;Site Map XML&lt;/a&gt;. However, we are not talking about the actual XML file rather an html file that mirrors the XML file but fits in the design of your website. Companies that have excellent site maps are &lt;a href=&quot;https://www.apple.com/sitemap/&quot;&gt;Apple&lt;/a&gt; and &lt;a href=&quot;https://www.nm.org/site-map&quot;&gt;Northwestern Medicine&lt;/a&gt;. A site map lists all pages on your website and is used by search engines to crawl over your website in order to track how many pages you have. Once you have created this site map you should also add it to Google Search Console, so that Google knows your site has it. Adding a site map helps with the SEO (Search Engine Optimization) of your website. Note, you want to make sure it updates if you add pages, typically the generator will account for this, but confirm it once you build out a new page or add a new post if your posts exist on their own pages.&lt;/p&gt;
+    &lt;p&gt;One that isn’t required but is a nice touch is a Site Map. Every page should have an XML site map file that exists in the root directory of your project. Once again there is a generator for creating a &lt;a href=&quot;https://www.xml-sitemaps.com/&quot;&gt;Site Map XML&lt;/a&gt;. However, we are not talking about the actual XML file rather an html file that mirrors the XML file but fits in the design of your website. Companies that have excellent site maps are &lt;a href=&quot;https://www.apple.com/sitemap&quot;&gt;Apple&lt;/a&gt; and &lt;a href=&quot;https://www.nm.org/site-map&quot;&gt;Northwestern Medicine&lt;/a&gt;. A site map lists all pages on your website and is used by search engines to crawl over your website in order to track how many pages you have. Once you have created this site map you should also add it to Google Search Console, so that Google knows your site has it. Adding a site map helps with the SEO (Search Engine Optimization) of your website. Note, you want to make sure it updates if you add pages, typically the generator will account for this, but confirm it once you build out a new page or add a new post if your posts exist on their own pages.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
