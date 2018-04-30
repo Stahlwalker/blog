@@ -49,6 +49,22 @@ layout: default
                     {% endif %}
                     
                    {{ page.content }}
+
+                   <!-- <br>
+                   <div class="related">
+                    {% if page.tags != null %}
+                    <div class="tags">
+                      <h4>
+                        {% for tag in page.tags %}
+                            <a href="archive/tags#{{ tag | slugify }}-ref">
+                            <i class="fa fa-tags"></i>
+                                {{ tag | replace: '-', ' ' }}
+                            </a> 
+                        {% endfor %}
+                      </h4>
+                    </div>
+                  </div>
+                    {% endif %} -->
     
                    <br>
                    <span>
