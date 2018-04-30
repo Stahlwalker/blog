@@ -1,5 +1,5 @@
 <h3>Tags</h3>
-{% capture temptags %}
+<!-- {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
   {% endfor %}
@@ -8,5 +8,20 @@
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code>
+ <a href="{{site.url}}{{post.url}}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+{% endfor %} -->
+
+
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+
+{% for tag in sortedtags %}
+
+  {% for post in site.tags[tag] %}
+    <a href="{{site.url}}{{ post.url }}"> <code class="highligher-rouge"><nobr>{{ tag }}</nobr></code></a>
+  {% endfor %}
 {% endfor %}
