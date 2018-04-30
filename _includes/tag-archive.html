@@ -36,7 +36,7 @@
 <div id="tags">
   <ul class="tag-box inline">
   {% for tag in tag_words %}
-    <li><a href="archive/#{{ tag | slugify }}-ref">{{ tag | replace: '-', ' ' }} <span>{{ site.tags[tag] | size }}</span></a></li>
+    <li><a href="archive#{{ tag | slugify }}-ref">{{ tag | replace: '-', ' ' }} <span>{{ site.tags[tag] | size }}</span></a></li>
   {% endfor %}
   </ul>
 
