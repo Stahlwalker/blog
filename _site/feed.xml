@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Apr 2018 19:41:15 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 19:41:15 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Apr 2018 20:02:37 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 20:02:37 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -30,7 +30,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/bundesligafanatic.com/wp-content/uploads/2017/12/honorable_mention.png?fit=751%2C357&quot; alt=&quot;Some Title&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/bundesligafanatic.com/wp-content/uploads/2017/12/honorable_mention.png?fit=751%2C357&quot; alt=&quot;Some Title&quot; style=&quot;float: left;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Honorable mention goes to social media and search bar. While I don’t think having your social media in the footer is a must, it definitely needs to be somewhere in your site, so a footer is as good a place as any. Adding a search bar is a nice touch, it gives users the ability to search content specific to your site, however, I find the user experience to be better suited for the nav bar at the top of your site, rather than the bottom. It doesn’t hurt to have both, but by then your footer may start to be a little too cluttered.&lt;/p&gt;
 
