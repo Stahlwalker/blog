@@ -240,6 +240,7 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Feature Start 
 --*/
+
 #feature {
   background: url("../img/keyboard.jpg");
   background-position: 50% 94px;
@@ -262,6 +263,7 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
+
 #feature h2 {
   font-size: 28px;
   font-weight: 600;
