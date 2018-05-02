@@ -4,7 +4,7 @@ date: 2018-04-02 2:52
 image: https://udemy-images.udemy.com/course/750x422/625204_436a_2.jpg
 lead: "Web Programming Boot Camps are huge investments, make sure you are in the know before enrolling." 
 subtitle: Web Programming Boot Camps vs online Udemy courses
-tags: boot camp Udemy web programming Northwestern
+tags: boot-camp udemy web programming northwestern
 ---
 #### Here is what I've learned so far:
 I've spent the last 4.5 months attending a Northwestern University Web Programming Boot Camp and here are a couple key takeaways for those thinking about becoming a web developer. 
