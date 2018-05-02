@@ -5,8 +5,8 @@
     <description>Tech blog for web programmers and digital marketers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 May 2018 23:10:02 -0500</pubDate>
-    <lastBuildDate>Tue, 01 May 2018 23:10:02 -0500</lastBuildDate>
+    <pubDate>Wed, 02 May 2018 07:38:34 -0500</pubDate>
+    <lastBuildDate>Wed, 02 May 2018 07:38:34 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -107,6 +107,12 @@
         <link>http://localhost:4000/tech/jekyll-static-blogs</link>
         <guid isPermaLink="true">http://localhost:4000/tech/jekyll-static-blogs</guid>
         
+        <category>jekyll</category>
+        
+        <category>blog</category>
+        
+        <category>secure</category>
+        
         
         <category>Tech</category>
         
@@ -143,6 +149,14 @@
         <link>http://localhost:4000/tech/stack-overflow</link>
         <guid isPermaLink="true">http://localhost:4000/tech/stack-overflow</guid>
         
+        <category>question</category>
+        
+        <category>footer</category>
+        
+        <category>overflow</category>
+        
+        <category>stack</category>
+        
         
         <category>Tech</category>
         
@@ -178,6 +192,16 @@
         <link>http://localhost:4000/tech/meta-data</link>
         <guid isPermaLink="true">http://localhost:4000/tech/meta-data</guid>
         
+        <category>metadata</category>
+        
+        <category>social</category>
+        
+        <category>Facebook</category>
+        
+        <category>open</category>
+        
+        <category>graphs</category>
+        
         
         <category>Tech</category>
         
@@ -210,6 +234,18 @@
         <pubDate>Mon, 02 Apr 2018 02:52:00 -0500</pubDate>
         <link>http://localhost:4000/tech/my-journey</link>
         <guid isPermaLink="true">http://localhost:4000/tech/my-journey</guid>
+        
+        <category>boot</category>
+        
+        <category>camp</category>
+        
+        <category>Udemy</category>
+        
+        <category>web</category>
+        
+        <category>programming</category>
+        
+        <category>Northwestern</category>
         
         
         <category>Tech</category>
