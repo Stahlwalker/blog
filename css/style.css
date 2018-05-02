@@ -241,7 +241,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start 
 --*/
 #feature {
-  background: url("../img/tech2.jpeg");
+  background: url("../img/keyboard.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -271,7 +271,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #feature p {
   color: white;
   margin-bottom: 20px;
-  /* font-weight: 600; */
+  font-weight: 600;
 }
 #feature .btn-view-works {
   background: rgb(122, 200, 236);
