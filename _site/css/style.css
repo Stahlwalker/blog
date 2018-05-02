@@ -243,7 +243,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #feature {
   background: url("../img/tech2.jpeg");
   background-position: 50% 94px;
-  /* width: 100%; */
+  width: 100%;
   display: block;
   position: relative;
   overflow: visible;
