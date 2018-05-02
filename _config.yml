@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Stahlwalker
 email: Stahl1109@gmail.com
-description: "Tech blog for web programmers and digital marketers."
+description: "Web design, digital marketing and a tech blog for web programmers. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stahlwalker.org" # the base hostname & protocol for your site, e.g. http://example.com
 enforce_ssl: stahlwalker.org
