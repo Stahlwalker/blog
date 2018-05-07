@@ -21,6 +21,6 @@ It's important to know that because this program is only six months, they do run
 
 It's amazing that we have these tutorials readily available for us and if you are like me, you'll find yourself with a never-ending wish list of tutorials once you get going.  
 
-- **-Man of Stahl**         
+### **<span style="color:rgb(50, 126, 235); font-family: 'Bradley Hand';">- Man of Stahl</span>**        
  
     

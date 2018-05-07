@@ -26,4 +26,4 @@ Here are a couple links to help get you started on creating your first Jekyll Bl
 &nbsp;
 #### I hope this was helpful and feel free to comment with suggestions or questions.  
 
-### **<span style="color:rgb(254, 57, 30)">-Man of Stahl</span>**
+### **<span style="color:rgb(50, 126, 235); font-family: 'Bradley Hand';">- Man of Stahl</span>**

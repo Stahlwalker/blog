@@ -5,9 +5,301 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 May 2018 14:37:20 -0500</pubDate>
-    <lastBuildDate>Fri, 04 May 2018 14:37:20 -0500</lastBuildDate>
+    <pubDate>Mon, 07 May 2018 09:35:34 -0500</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 09:35:34 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>SEO Checklist for Your Website</title>
+        <description>&lt;h4 id=&quot;understanding-what-search-engines-look-for&quot;&gt;Understanding what search engines look for:&lt;/h4&gt;
+
+&lt;p&gt;Search Engine Optimization is the ability to enhance how accessibly a website is to users upon search. Digital marketers will highly recommend that your site’s SEO score be higher than your competition and luckily for you there are SEO checkers out there to help improve your score. Below are 41 steps to complete in order to make sure your site ranks highly in SEO.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Meta Title:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The meta title of your page must have a length of 11 characters, do not exceed 70 characters. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Meta Description:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The meta description of your page must not exceed 160 characters. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most Common Keywords:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Make sure the keywords that appear most often on your page appear within natural sounding and grammatically correct copy. I found adding hidden paragraph tags with specific keywords hurt the overall SEO score. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keyword Usage:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Both title tag and meta-description tag are often used. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Related Keywords:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Are indexed keywords that rank your URL in the top 20 organic Google listings. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;h1 &amp;amp; h2 Heading Status:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Page should contain H1 and H2 headings but limit it to less than 10 H2 tags. This helps clarify the overall theme and supports subtitles.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Robots.txt Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Robots.txt tells Googlebot and other crawlers what is and is not allowed to be crawled on your site.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sitemap Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A sitemap is important because it tells informs search engines how many pages a site has and it improves the sites ability to be crawled. Sharing your sitemap xml file with Google Search Console https://www.google.com/webmasters/tools/home?hl=en is a must for SEO. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Broken Links Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This one is pretty straight forward, do not have links that are broken or send a user to a 404 page does not exist. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SEO Friendly URL Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;In order for links to be SEO friendly, they should contain keywords relevant to the page's topic, and contain no spaces, underscores or other characters. You should avoid the use of parameters when possible, as they make URLs less inviting for users to click or share.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Image Alt Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Adding the alt tag to images is a way for users to know what the image is if there was an issue displaying, rather than looking at an image thumbnail with no description. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inline CSS Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Removing inline CSS properties can improve page loading time and make site maintenance easier. Use CSS files instead of inline styling. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deprecated HTML Tags:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Deprecated html tags are old html tags that are not supported across all browsers. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google Analytics Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Adding Google Analytics is a great way to track how users are viewing your website. Google Analytics are easy to install, Google provides you with the code to add in the HEAD tag. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Favicon Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A favicon image is the main sites image. It is displayed on the tabs in your browser and when it's shared across social media channels. You will also notice that the favicon displays when the URL is shared through text messaging. Here is a link to a favicon generator that I prefer https://www.visiospark.com/apple-touch-icon-favicon-generator       
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Backlinks Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Backlinks are any links to your website from an external site. Relevant backlinks from authority sites are critical for higher search engine rankings. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JS Error Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Errors with JavaScript files can lower score as well. Check the console log in the browser while visiting your site to see if any errors appear. This is a way to take note of what issues may be going on within your code. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Social Media Check:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;It's not enough that individual blog posts have sharing capabilities, users need to be able to share your site from any page easily. AddThis https://www.addthis.com/?utm_expid=12961876-41.5y4JCz2XROeUlBhVUbk2fg.0 is an excellent resource for implementing social media sharing. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTML Page Size Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;HTML size is the size of all the HTML code on your web page - this size does not include images, external JavaScript or external CSS files.    
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTML Compression/GZIP Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;HTML compression plays an important role in improving website speed by finding similar strings within a text file and replacing them temporarily to reduce overall file size.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Site Loading Speed Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Pages that take longer than 5 seconds to load can lose up to 50% of users. Faster webpages result in higher traffic, better conversions and increased sales over slower loading pages.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Page Objects:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Http requests can slow down page loading, make sure the requests are working and limit the number of requests by adding actual files. For example, rather than using an image URL to another site, download the actual image and link to the file. The goal is to be lower than 20 http requests. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Page Cache Test (Server-Side Caching):&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check if your page is serving cached pages. A page cache saves dynamically generated pages and serves the pre-generated (cached) page to reduce server load and site loading time (by avoiding the re-loading and execution of PHP scripts). Common caching methods are ZenCache and WP Rocket.      
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flash Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;It is preferred to not use Flash because it is considered to be outdated technology. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Image Expires Tag Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Checks if your page is using an image expires tag, which specifies a future expiration date for your images. Users' browsers will see this tag and cache the image in their browser until the specified date (so that it does not keep re-fetching the unchanged image from your server). This speeds up your site the next time returning visitors arrive at your site and require the same image.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JS &amp;amp; CSS Minification Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Using minification generators to improve load time. Here is a link to a good JS &amp;amp; CSS minifier https://www.minifier.org/.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nested &amp;amp; Frameset Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Nested tables can also slow down load time and should be avoided. Frames create problems for users specifically for printing purposes. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Doctype Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Include the doctype at the top of your html to clarify which html you are using on your website. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;URL Redirects Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Redirects often cause search engine indexing issues and can also lead to some minor loading delays. Google recommends removing or keeping redirects to a minimum.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;URL Canonicalization Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;You want to make sure that the URL for your site works with both www and without the www. For example https://www.stahlwlaker.org and https://stahlwalker.org will both lead to the same place. This can be corrected in the DNS of your domain name from the provider you are using. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTTPS Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This is one of the biggest of all tests. Make sure your site is secure, SEO increases dramatically for secure sites verses those that are not. If your URL is http and not https you have an issue.  I've written a blog post about securing your domain for free at https://stahlwalker.org/tech/jekyll-static-blogs            
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Safe Browsing Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check if your website is identified as having malware or exhibiting phishing activity by Google's safe browsing API. Any site containing malware or suspicious for phising activity is seen as a threat to the online community and is often penalized by search engines. This test checks your website against regularly updated malware and phishing databases of problem websites. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Server Signature Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check if your server's signature is ON. A server signature is the public identity of your web server and contains sensitive information that could be used to exploit any known vulnerability. Turning your server signature OFF is considered a good security practice to avoid disclosure of what software versions you are running.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Directory Browsing Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;If your server allows directory browsing you should disable it as it will lower your score. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plaintext Emails Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check your webpage for plaintext email addresses. Any e-mail address posted in public is likely to be automatically collected by computer software used by bulk emailers (a process known as e-mail address harvesting). A spam harvester can read through the pages in your site and extract plaintext email addresses which are then added to bulk marketing databases (resulting in more inbox spam). There are several methods for email obfuscation.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Media Query Responsive Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Adding media queries to your CSS files will improve mobile responsiveness and increase your sites SEO score.  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Microdata Schema Test:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check if your website uses HTML Microdata specifications (or structured data markup). Search engines use microdata to better understand the content of your site and create rich snippets in search results (which helps increase click-through rate to your site).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Noindex Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Do not use the noindex meta tag. This means that your webpage will be read and indexed by search engines.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Canonical Tag Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This tag specifies that the URL is preferred to be used in search results. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nofollow Checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Avoid nofollow tags and let search engines crawl your entire site. If you do want certain pages to not be crawled add the disallow directive to your robots.txt file.     
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SPF records checker:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Check if your DNS records contains an SPF record. SPF (Sender Policy Framework) records allow email systems to verify if a given mail server has been authorized to send mail on behalf of your domain. Creating an SPF record increases email delivery rates by reducing the likelihood of your email being marked as spam.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;mark&gt;Source&lt;/mark&gt;  The following information was gathered from &lt;a href=&quot;https://toolbox.seositecheckup.com/&quot;&gt;SEO Toolbox&lt;/a&gt; which allows 15 free reports. This SEO toolbox gives your site an SEO score by percentage and ways to improve it. I found this site useful in improving &lt;a href=&quot;https://www.stahlwalker.org&quot;&gt;Stahlwalker’s&lt;/a&gt; initial score of 88% to 96% once the recommended improvements were met.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/metaDescript.png&quot; alt=&quot;Stahlwalker.org&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toolbox.seositecheckup.com/&quot;&gt;SEO Toolbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.minifier.org/&quot;&gt;JS &amp;amp; CSS minifier&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.addthis.com/?utm_expid=12961876-41.5y4JCz2XROeUlBhVUbk2fg.0&quot;&gt;AddThis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.visiospark.com/apple-touch-icon-favicon-generator/&quot;&gt;Favicon &amp;amp; Apple Touch Generator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/webmasters/tools/home?hl=en&quot;&gt;Google Search Console&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 07 May 2018 09:20:00 -0500</pubDate>
+        <link>http://localhost:4000/marketing/SEO</link>
+        <guid isPermaLink="true">http://localhost:4000/marketing/SEO</guid>
+        
+        <category>seo</category>
+        
+        <category>marketing</category>
+        
+        <category>website</category>
+        
+        <category>checklist</category>
+        
+        
+        <category>Marketing</category>
+        
+      </item>
     
       <item>
         <title>What to Include in Your Website's Footer</title>
@@ -46,7 +338,7 @@
 &lt;p&gt; &lt;/p&gt;
 &lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
 
-&lt;h4 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(254, 57, 30)&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 08:00:00 -0500</pubDate>
         <link>http://localhost:4000/tech/footer</link>
@@ -99,7 +391,7 @@
 &lt;p&gt; &lt;/p&gt;
 &lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
 
-&lt;h3 id=&quot;-man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(254, 57, 30)&quot;&gt;-Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 08:45:00 -0500</pubDate>
         <link>http://localhost:4000/tech/jekyll-static-blogs</link>
@@ -138,9 +430,7 @@
 
 &lt;p&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(254, 57, 30)&quot;&gt;-Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 
 </description>
         <pubDate>Mon, 16 Apr 2018 15:30:00 -0500</pubDate>
@@ -179,9 +469,7 @@
 
 &lt;p&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;-Man of Stahl&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 
 </description>
         <pubDate>Mon, 09 Apr 2018 11:32:00 -0500</pubDate>
@@ -220,9 +508,7 @@
 
 &lt;p&gt;It’s amazing that we have these tutorials readily available for us and if you are like me, you’ll find yourself with a never-ending wish list of tutorials once you get going.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;-Man of Stahl&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 
 </description>
         <pubDate>Mon, 02 Apr 2018 02:52:00 -0500</pubDate>
