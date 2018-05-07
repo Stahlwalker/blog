@@ -8,6 +8,14 @@
         "url": "https://stahlwalker.org/blog"
     },
     {
+        "category": "Websites",
+        "img": "img/portfolio/clark.png",
+        "alt": "resume",
+        "title": "Lucas Stahl Interactive Resume",
+        "content": "Interactive resume and portfolio of work.",
+        "url": "https://lucasstahl.com/"
+    },
+    {
         "category": "Projects",
         "img": "img/portfolio/face.jpg",
         "alt": "face app",
