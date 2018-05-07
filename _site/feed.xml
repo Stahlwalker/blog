@@ -5,8 +5,8 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 May 2018 09:39:16 -0500</pubDate>
-    <lastBuildDate>Mon, 07 May 2018 09:39:16 -0500</lastBuildDate>
+    <pubDate>Mon, 07 May 2018 10:26:02 -0500</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 10:26:02 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -60,13 +60,13 @@
   &lt;li&gt;
     &lt;p&gt;Sitemap Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A sitemap is important because it tells informs search engines how many pages a site has and it improves the sites ability to be crawled. Sharing your sitemap xml file with Google Search Console https://www.google.com/webmasters/tools/home?hl=en is a must for SEO. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A sitemap is important because it informs search engines how many pages a website has and it improves the websites ability to be crawled. Sharing your sitemap xml file with Google Search Console https://www.google.com/webmasters/tools/home?hl=en is a must for SEO. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Broken Links Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This one is pretty straight forward, do not have links that are broken or send a user to a 404 page does not exist. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This one is pretty straight forward, do not have links that are broken or sends visitors to a 404 page does not exist. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -78,7 +78,7 @@
   &lt;li&gt;
     &lt;p&gt;Image Alt Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Adding the alt tag to images is a way for users to know what the image is if there was an issue displaying, rather than looking at an image thumbnail with no description. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Adding the alt tag to images is a way for users to know what the image is if there was an issue displaying, rather than looking at an image file thumbnail with no description. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -102,7 +102,7 @@
   &lt;li&gt;
     &lt;p&gt;Favicon Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A favicon image is the main sites image. It is displayed on the tabs in your browser and when it's shared across social media channels. You will also notice that the favicon displays when the URL is shared through text messaging. Here is a link to a favicon generator that I prefer https://www.visiospark.com/apple-touch-icon-favicon-generator       
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A favicon image is the main sites image. It is displayed on browser tab and when it's shared across social media channels. You will also notice that the favicon displays when the URL is shared through text messaging. Here is a link to a favicon generator that I prefer https://www.visiospark.com/apple-touch-icon-favicon-generator       
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -120,7 +120,7 @@
   &lt;li&gt;
     &lt;p&gt;Social Media Check:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;It's not enough that individual blog posts have sharing capabilities, users need to be able to share your site from any page easily. AddThis https://www.addthis.com/?utm_expid=12961876-41.5y4JCz2XROeUlBhVUbk2fg.0 is an excellent resource for implementing social media sharing. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;It's not enough that individual articles or written posts have sharing capabilities, users need to be able to share your site from any page easily. AddThis https://www.addthis.com/?utm_expid=12961876-41.5y4JCz2XROeUlBhVUbk2fg.0 is an excellent resource for implementing social media sharing. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -144,7 +144,7 @@
   &lt;li&gt;
     &lt;p&gt;Page Objects:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Http requests can slow down page loading, make sure the requests are working and limit the number of requests by adding actual files. For example, rather than using an image URL to another site, download the actual image and link to the file. The goal is to be lower than 20 http requests. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Http requests can slow down page loading, make sure the requests are working and limit the number of requests by adding actual files. For example, rather than using an image URL to another site, download the actual image and link to the file. The goal is to have lower than 20 http requests. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -192,7 +192,7 @@
   &lt;li&gt;
     &lt;p&gt;URL Canonicalization Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;You want to make sure that the URL for your site works with both www and without the www. For example https://www.stahlwlaker.org and https://stahlwalker.org will both lead to the same place. This can be corrected in the DNS of your domain name from the provider you are using. 
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;You want to make sure that the URL for your site works with and without the www. For example https://www.stahlwalker.org and https://stahlwalker.org will both lead to the same place. This can be corrected in the DNS of your domain name from the provider you are using. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
