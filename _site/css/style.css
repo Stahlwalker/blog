@@ -517,7 +517,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
-  height: auto;
+  /* height: auto; */
+  height: 250px;
+  border-radius: 10%;
 }
 #portfolio-work .block .portfolio-contant .overly {
   position: absolute;
@@ -525,17 +527,18 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(160, 159, 159, 0.87);
   opacity: 0;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
   text-align: center;
+  border-radius: 10%;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 10%;
+  /* left: 10%; */
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
