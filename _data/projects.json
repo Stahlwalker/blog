@@ -5,7 +5,7 @@
         "alt": "blog",
         "title": "Stahlwalker Blog",
         "content": "Jekyll is a parsing engine, bundled as a ruby gem, used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as a simple static site generator. I used Jekyll to create my professional blog.",
-        "url": "https://stahlwalker.org/blog"
+        "url": "https://stahlwalker.org"
     },
     {
         "category": "Websites",
