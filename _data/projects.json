@@ -16,7 +16,7 @@
         "url": "https://lucasstahl.com/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/face.jpg",
         "alt": "face app",
         "title": "Face Recognition App",
@@ -24,7 +24,7 @@
         "url": "https://smart-brain-stahl.herokuapp.com"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/click.png",
         "alt": "click app",
         "title": "Clicky Game App",
@@ -32,7 +32,7 @@
         "url": "https://stahlwalker.github.io/superhero-click/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/chicago2.png",
         "alt": "scrape app",
         "title": "Mongo Scrape App",
@@ -40,7 +40,7 @@
         "url": "https://safe-mountain-16928.herokuapp.com/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/friend.jpg",
         "alt": "friend finder",
         "title": "Friend Finder App",
@@ -56,7 +56,7 @@
         "url": "https://stahlwalker.github.io/Brewary-Project/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/burger2.jpg",
         "alt": "burger",
         "title": "Eat Da Burger App",
@@ -72,15 +72,15 @@
         "url": "https://stahlwalker.github.io/background-generator/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/super2.jpg",
         "alt": "superhero trivia",
-        "title": "Superhero Trivia",
+        "title": "Superhero Trivia App",
         "content": "This superhero trivia game is based on jQuery and manipulation of the DOM. For more details visit my git repository and review the README.",
         "url": "https://stahlwalker.github.io/TriviaGame/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/dog.gif",
         "alt": "animal giphy app",
         "title": "Animal Giphy App",
@@ -88,7 +88,7 @@
         "url": "https://stahlwalker.github.io/Giphyapi/"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/liri4.gif",
         "alt": "liri app",
         "title": "Liri Node App",
@@ -96,7 +96,7 @@
         "url": "https://github.com/Stahlwalker/liri-node-app"
     },
     {
-        "category": "Projects",
+        "category": "Apps",
         "img": "img/portfolio/cart2.jpg",
         "alt": "bamazon",
         "title": "Bamazon App",
