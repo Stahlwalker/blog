@@ -51,7 +51,7 @@
         "category": "Websites",
         "img": "img/portfolio/beer5.jpg",
         "alt": "beer app",
-        "title": "BrewIary App",
+        "title": "BrewIary",
         "content": "Part of a Northwestern University Boot Camp group project, we used Javascript, jQuery and APIs to create a brewery app to search beer and log notes. This app was designed as a beer diary, hence being called 'BrewIary'. Firebase was included for user authentication.",
         "url": "https://stahlwalker.github.io/Brewary-Project/"
     },
