@@ -482,7 +482,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 30.22%;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -508,8 +508,9 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 1px;
 }
 #portfolio-work .block .portfolio-contant ul li a p {
-  font-size: 15px;
+  font-size: 12px;
 }
+
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
