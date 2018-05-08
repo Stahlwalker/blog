@@ -500,7 +500,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li a {
   display: block;
-  color: #fff;
+  color: black;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
   font-size: 22px;
@@ -527,13 +527,14 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(160, 159, 159, 0.87);
+  background: rgba(228, 225, 225, 0.87);
   opacity: 0;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
   text-align: center;
   border-radius: 10%;
+  margin-bottom: 38px;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;

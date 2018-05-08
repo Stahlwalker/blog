@@ -15,15 +15,16 @@
                   </div>
                   <div class="portfolio-contant">
                     <ul id="portfolio-contant-active">
+                      
                       {% for project in site.data.projects %}
                         <li class="mix {{ project.category }}">
+                            <!-- <h4>{{project.title}}</h4> -->
                           <a href="{{ project.url }}">
-                            <img src="{{ project.img }}" alt="{{ project.title }}">
+                            <img src="{{ project.img }}" alt="{{ project.title }}"><p align="center">{{project.title}}</p>
                             <div class="overly">
                               <div class="position-center">
                                 <h2>{{ project.title }}</h2>
                                 <p>{{ project.content }}</p>
-                                
                               </div>
                             </div>
                           </a>
