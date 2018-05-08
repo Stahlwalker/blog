@@ -6,7 +6,7 @@
                 <div class="block">
                   <div class="portfolio-menu">
                     <ul>
-                        <li class="filter" data-filter="all">Everything</li>
+                        <li class="filter" data-filter="all">All</li>
                         {% assign filters = site.data.projects | group_by: 'category' %}
                         {% for filter in filters %}
                         <li class="filter" data-filter=".{{ filter.name }}">{{ filter.name }}</li>
