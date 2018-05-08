@@ -97,7 +97,7 @@
     },
     {
         "category": "Projects",
-        "img": "img/portfolio/cart.jpg",
+        "img": "img/portfolio/cart2.jpg",
         "alt": "bamazon",
         "title": "Bamazon App",
         "content": "Bamazon is a Command Line Interface (CLI) app that accepts orders from customers and depletes stock from the store's inventory. It runs on Node.js and MySQL. Please visit my git repository and review the README.",
