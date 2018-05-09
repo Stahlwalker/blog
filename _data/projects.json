@@ -4,7 +4,7 @@
         "img": "img/portfolio/Stahlwalker2.JPG",
         "alt": "blog",
         "title": "Stahlwalker (Blog)",
-        "content": "Jekyll is a parsing engine, bundled as a ruby gem, used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as a simple static site generator. I used Jekyll to create my professional blog.",
+        "content": "Jekyll is a parsing engine, bundled as a ruby gem, used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is a simple static site generator.",
         "url": "https://stahlwalker.org"
     },
     {
@@ -36,7 +36,7 @@
         "img": "img/portfolio/chicago2.png",
         "alt": "scrape app",
         "title": "Mongo Scrape App",
-        "content": "This app uses NPMs body-parser, cheerio, express, express-handlebars, mongoose and request to scrape news articles from the Chicago. It uses mongoDB to store the data collected. Handlebars and MVC paradigm were additional features.",
+        "content": "This app uses NPMs body-parser, cheerio, express, express-handlebars, mongoose and request to scrape news articles from the Chicago. It uses mongoDB to store the data collected.",
         "url": "https://safe-mountain-16928.herokuapp.com/"
     },
     {
@@ -44,7 +44,7 @@
         "img": "img/portfolio/friend.jpg",
         "alt": "friend finder",
         "title": "Friend Finder App",
-        "content": "Friend Finder application is meant to simulate a dating app. The application is implemented using a Node.js & Express server on the back end and the Materialize CSS framework on the front end. For more details visit my git repository and review the README.",
+        "content": "Friend Finder application is meant to simulate a dating app. The app uses Node & Express the back end and Materialize CSS framework on the front end. For more details visit my git repository.",
         "url": "https://mighty-scrubland-37997.herokuapp.com/"
     },
     {
@@ -52,7 +52,7 @@
         "img": "img/portfolio/beer5.jpg",
         "alt": "beer app",
         "title": "BrewIary",
-        "content": "Part of a Northwestern University Boot Camp group project, we used Javascript, jQuery and APIs to create a brewery app to search beer and log notes. This app was designed as a beer diary, hence being called 'BrewIary'. Firebase was included for user authentication.",
+        "content": "Languages used, Javascript, jQuery and APIs to create a brewery app to search beer and log notes. This app was designed as a beer diary, called 'BrewIary'. Firebase was included for user authentication.",
         "url": "https://stahlwalker.github.io/Brewary-Project/"
     },
     {
@@ -92,7 +92,7 @@
         "img": "img/portfolio/liri4.gif",
         "alt": "liri app",
         "title": "Liri Node App",
-        "content": "LIRI is a Language Interpretation and Recognition Interface. Use LIRI to get your latest tweets, find out about a song, or a movie, or just choose a random action from your own random file. Please visit my git repository and review the README.",
+        "content": "LIRI is a Language Interpretation and Recognition Interface. Please visit my git repository and review the README.",
         "url": "https://github.com/Stahlwalker/liri-node-app"
     },
     {

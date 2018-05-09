@@ -507,9 +507,9 @@ font header .navbar-default .navbar-nav li a:hover {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#portfolio-work .block .portfolio-contant ul li a p {
+/* #portfolio-work .block .portfolio-contant ul li a p {
   font-size: 12px;
-}
+} */
 
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
@@ -552,6 +552,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .mix {
   display: none;
 }
+
 /*--
 	wrapper-work Start 
 --*/
