@@ -533,9 +533,10 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  text-align: center;
+  /* text-align: center; */
   border-radius: 10%;
   margin-bottom: 38px;
+  font-size: 12px;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
