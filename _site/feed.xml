@@ -5,9 +5,61 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 May 2018 21:14:30 -0500</pubDate>
-    <lastBuildDate>Tue, 08 May 2018 21:14:30 -0500</lastBuildDate>
+    <pubDate>Tue, 15 May 2018 12:16:35 -0500</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 12:16:35 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Contact Us Through Formspree</title>
+        <description>&lt;h4 id=&quot;using-formspree-to-connect-with-visitors&quot;&gt;Using Formspree to connect with visitors:&lt;/h4&gt;
+&lt;p&gt;Creating a contact form is as simple as 4 steps with Formspree. Included is an example code that can be plugged into any html file.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Setup the html form&lt;/li&gt;
+  &lt;li&gt;Add a name attribute to every field&lt;/li&gt;
+  &lt;li&gt;Submit the form and confirm your email address&lt;/li&gt;
+  &lt;li&gt;You are done and should be receiving email notifications.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;form action=&quot;https://formspree.io/your@email.com&quot;
+      method=&quot;POST&quot;&amp;gt;
+    &amp;lt;input type=&quot;text&quot; name=&quot;name&quot;&amp;gt;
+    &amp;lt;input type=&quot;email&quot; name=&quot;_replyto&quot;&amp;gt;
+    &amp;lt;input type=&quot;submit&quot; value=&quot;Send&quot;&amp;gt;
+&amp;lt;/form&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I’ve used Formspree on both &lt;a href=&quot;https://www.stahlwalker.org&quot;&gt;Stahlwalker&lt;/a&gt; and on my &lt;a href=&quot;https://lucasstahl.com/&quot;&gt;Interactive Resume&lt;/a&gt;. As a result, I receive an email notification anytime someone wants to connect. The good news it’s free until you start receiving more than 1000 submissions a day, then you can upgrade for $10 a month.&lt;/p&gt;
+
+&lt;p&gt;Alternatives to Formspree are sites like Firebase, however Formspree is ultimately easier to use due to it’s a contact form generator, taking in the input you desire.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://formspree.io/&quot;&gt;Formspree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Tue, 15 May 2018 12:10:00 -0500</pubDate>
+        <link>http://localhost:4000/tech/formspree</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/formspree</guid>
+        
+        <category>formspree</category>
+        
+        <category>contact</category>
+        
+        <category>connect</category>
+        
+        <category>chat</category>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>SEO Checklist for Your Website</title>
