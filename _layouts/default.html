@@ -77,25 +77,45 @@
 
 
       <!-- Twitter cards metadatas -->
-      <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:site" content="@LucasStahl11">
-      <meta name="twitter:creator" content="@LucasStahl11">
-      {% if page.title %}
-        <meta name="og:title" content="{{ page.title }}">
-      {% else %}
-        <meta name="og:title" content="{{ site.title }}">
-      {% endif %}
-      {% if page.url %}
-        <meta name="og:url" content="{{ site.url }}{{ page.url }}">
-      {% endif %}
-      {% if page.description %}
-        <meta name="og:description" content="{{ page.description }}">
-      {% else %}
-        <meta name="og:description" content="{{ site.description }}">
-      {% endif %}
-      {% if page.image %}
-        <meta name="og:image" content="{{ page.image }}">
-      {% endif %}
+      // <meta name="twitter:card" content="summary_large_image">
+      // <meta name="twitter:site" content="@LucasStahl11">
+      // <meta name="twitter:creator" content="@LucasStahl11">
+      // {% if page.title %}
+      //   <meta name="og:title" content="{{ page.title }}">
+      // {% else %}
+      //   <meta name="og:title" content="{{ site.title }}">
+      // {% endif %}
+      // {% if page.url %}
+      //   <meta name="og:url" content="{{ site.url }}{{ page.url }}">
+      // {% endif %}
+      // {% if page.description %}
+      //   <meta name="og:description" content="{{ page.description }}">
+      // {% else %}
+      //   <meta name="og:description" content="{{ site.description }}">
+      // {% endif %}
+      // {% if page.image %}
+      //   <meta name="og:image" content="{{ page.image }}">
+      // {% endif %}
+
+      <!-- Twitter cards -->
+<meta name="twitter:site"    content="@LucasStahl11">
+<meta name="twitter:creator" content="@LucasStahl11">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
+<!-- end of Twitter cards -->
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="favapple.png?">
