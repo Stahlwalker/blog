@@ -17,14 +17,6 @@
     },
     {
         "category": "Apps",
-        "img": "img/portfolio/tomatoe2.png",
-        "alt": "tomatoe",
-        "title": "Ripe Tomatoes",
-        "content": "NU group project using react, mongoDB and python to search movies and store them into a dashboard with user authentication.",
-        "url": "https://infinite-wave-67208.herokuapp.com"
-    },
-    {
-        "category": "Apps",
         "img": "img/portfolio/face.jpg",
         "alt": "face app",
         "title": "Face Recognition App",
@@ -110,6 +102,14 @@
         "title": "Bamazon App",
         "content": "Bamazon is a Command Line Interface (CLI) app that accepts orders from customers and depletes stock from the store's inventory. It runs on Node.js and MySQL. Please visit my git repository and review the README.",
         "url": "https://github.com/Stahlwalker/bamazon"
+    },
+    {
+        "category": "Apps",
+        "img": "img/portfolio/tomatoe2.png",
+        "alt": "tomatoe",
+        "title": "Ripe Tomatoes",
+        "content": "NU group project using react, mongoDB and python to search movies and store them into a dashboard with user authentication.",
+        "url": "https://infinite-wave-67208.herokuapp.com"
     },
     {
         "category": "GitHub",
