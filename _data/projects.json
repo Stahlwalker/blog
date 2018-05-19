@@ -17,6 +17,14 @@
     },
     {
         "category": "Apps",
+        "img": "img/portfolio/tomatoe2.png",
+        "alt": "tomatoe",
+        "title": "Ripe Tomatoes",
+        "content": "NU group project using react, mongoDB and python to search movies and store them into a dashboard with user authentication.",
+        "url": "https://infinite-wave-67208.herokuapp.com/dashboard"
+    },
+    {
+        "category": "Apps",
         "img": "img/portfolio/face.jpg",
         "alt": "face app",
         "title": "Face Recognition App",
