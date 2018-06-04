@@ -5,9 +5,85 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 May 2018 06:31:36 -0500</pubDate>
-    <lastBuildDate>Sun, 20 May 2018 06:31:36 -0500</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 08:20:55 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 08:20:55 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>What HTML tag are you?</title>
+        <description>&lt;h4 id=&quot;the-unexpected-interview-question-you-hope-to-hear&quot;&gt;The unexpected interview question you hope to hear.&lt;/h4&gt;
+&lt;p&gt;I recently listened to a podcast called Front End Happy Hour in which they discussed interviewing questions and the most fascinating one was:&lt;/p&gt;
+
+&lt;h4 id=&quot;if-you-were-an-html-tag-what-would-you-be&quot;&gt;If you were an HTML tag what would you be?&lt;/h4&gt;
+
+&lt;p&gt;Let’s review all the different tags we have to choose from:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1.	&amp;lt;A&amp;gt; Anchor 
+2.	&amp;lt;B&amp;gt; Bold
+3.	&amp;lt;BIG&amp;gt; Large Type
+4.	&amp;lt;BLOCKQUOTE&amp;gt; Indented Block
+5.	&amp;lt;BR&amp;gt; Line Break
+6.	&amp;lt;CENTER&amp;gt; Center Page
+7.	&amp;lt;DEL&amp;gt; Deletion
+8.	&amp;lt;DIV&amp;gt; Block-level Elements
+9.	&amp;lt;EM&amp;gt; Emphasis
+10.	&amp;lt;FONT&amp;gt; Font Attributes
+11.	&amp;lt;HEAD&amp;gt; HTML Introduction
+12.	&amp;lt;H1 H2 ….&amp;gt; Headers
+13.	&amp;lt;HR&amp;gt; Horizontal Line
+14.	&amp;lt;I&amp;gt; Italics
+15.	&amp;lt;IMG&amp;gt; Image
+16.	&amp;lt;LI&amp;gt; List Item
+17.	&amp;lt;OL&amp;gt; Ordered List
+18.	&amp;lt;UL&amp;gt; Unordered List
+19.	&amp;lt;P&amp;gt; Paragraph
+20.	&amp;lt;S&amp;gt; Strike Through
+21.	&amp;lt;SMALL&amp;gt; Smaller Size Text
+22.	&amp;lt;SPAN&amp;gt; Inline Content
+23.	&amp;lt;STRONG&amp;gt; Bold
+24.	&amp;lt;SUB&amp;gt; Subscript
+25.	&amp;lt;SUP&amp;gt; Superscript
+26.	&amp;lt;TABLE&amp;gt; Table
+27.	&amp;lt;TD&amp;gt; Table Data Cell
+28.	&amp;lt;TH&amp;gt; Table Header Cell
+29.	&amp;lt;TITLE&amp;gt; Document Title
+30.	&amp;lt;TR&amp;gt; Table Row
+31.	&amp;lt;TT&amp;gt; Monospaced Type
+32.	&amp;lt;U&amp;gt; Underline Text
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/div2.png&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt; because it can be used in so many different ways. I think it makes a ton of sense considering a &amp;lt;DIV&amp;gt; tag is a necessity when coding and can wrap around pretty all other tags. However, I feel the &amp;lt;DIV&amp;gt; tag is comparable to “more wishes” when asked if you have 3 wishes what would they be. There is always that one person that want’s more wishes.&lt;/p&gt;
+
+&lt;p&gt;Overall, I think this is an excellent question and after much consideration I would go with &amp;lt;OL&amp;gt;. As someone that is extremely organized, I thought an ordered list would best describe me. I live by my reminders on my phone, they bring order to my personal and professional life. On any given day I average 15-20 reminders for a variety of lists. These lists vary from work projects, to birthday ideas for family and friends, to fantasy football and so on and so on. You know the expression you would feel naked without your phone, well, I feel that way about my lists. Without them, I’m lost, luckily, we live in a world where cloud computing allows me to store these lists and access them amongst many different devices. The cloud also gives me that safety net that even if I lost my device I would not lose my reminders list. Thank you, technology!&lt;/p&gt;
+
+&lt;p&gt;So that begs the question what tag would you be and why?  Be specific because no one is going to give you more wishes. &lt;img src=&quot;/img/genie.jpeg&quot; alt=&quot;Genie&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://frontendhappyhour.com/&quot;&gt;Front End Happy Hours Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tech/what-html-tag</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/what-html-tag</guid>
+        
+        <category>tag</category>
+        
+        <category>html</category>
+        
+        <category>interview</category>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>Contact Us Through Formspree</title>
