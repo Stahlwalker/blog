@@ -5,9 +5,54 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Thu, 01 Nov 2018 20:32:17 -0500</pubDate>
     <lastBuildDate>Thu, 01 Nov 2018 20:32:17 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Are You a Yes Man?</title>
+        <description>&lt;h4 id=&quot;back-at-it-and-it-feels-so-good&quot;&gt;Back at it and it feels so good:&lt;/h4&gt;
+&lt;p&gt;I’ve been lost in translation for the past couple months as I’ve put my career goals ahead of my message. While I’ve been focusing on career growth these past four months, I’ve noticed one attribute from senior leaders that I find truly beneficial for anyone looking to move up the corporate ladder and that’s becoming a yes man.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/corp-ladder.jpg&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+There is a fine line between being a yes man and allowing yourself to be walked over but I’ve had the pleasure of working under someone I truly feel owns the yes man role and does it right. Being a yes man comes with the attitude that no matter what it is you’ll find a way to get it done. In every job there are continuous asks and more responsibilities added on a daily basis. A yes man takes those situations and succeeds while others may push back. A yes man focuses more on the needs of those you are serving versus their own. Being a yes man enforces that you can handle extreme pressures of the day-to-day job. It gives leadership faith that they don’t have to go to anyone else because when the ask you say “I’ll find a way to get it done.” The more you build on this trait the more trust you will have and with leadership and with your clients. Ultimately, it adds much more work on you, but in the long run you will have more to show for it. Imagine your review a year after you have dedicated your time to becoming a yes man, it will be filled with tasks that become larger and larger as the trust built over the fiscal year. Once you have reached that status, leadership roles for yourself become a demand because the value you bring to the organization had significantly increased. As a leader it shows those that are reporting up to you, how things get done, how to handle adversity and how to achieve success.&lt;/p&gt;
+
+&lt;p&gt;I feel fortunate that I’ve spent the past year learning from someone who crushes it on a regular basis, even when times get hard. We all have demanding needs and if you can look at the big picture you’ll see that being a yes man will come with its own rewards. I recently took this to heart and applied it to my career goals and it has been an absolute game changer. It resulted in a senior level position with a tech company and am thrilled for this new life changing journey. I’ve seen that being a yes man has not only improved the relationship with my clients but internally with fellow teammates. And while you don’t want to become the person people dump their work on, you definitely want to be the person people can come to for help.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/put-out-fire.png&quot; alt=&quot;Genie&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+As a marketer you put out fires on a regular basis, it comes with the territory, but being a yes man will only better equip you in the long haul.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 18 Oct 2018 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/marketing/yes-man</link>
+        <guid isPermaLink="true">http://localhost:4000/marketing/yes-man</guid>
+        
+        <category>management</category>
+        
+        <category>leadership</category>
+        
+        <category>yes-man</category>
+        
+        
+        <category>Marketing</category>
+        
+      </item>
+=======
+    <pubDate>Thu, 18 Oct 2018 08:57:40 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Oct 2018 08:57:40 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+>>>>>>> abfe62b1e0f514a1e9e4f0172558045f3acba656
     
       <item>
         <title>Are You a Yes Man?</title>
