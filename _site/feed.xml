@@ -5,9 +5,58 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Mar 2019 09:36:42 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Mar 2019 09:36:42 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2019 13:21:15 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Mar 2019 13:21:15 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>One Small Step for Man…</title>
+        <description>&lt;h4 id=&quot;hold-your-breath-we-have-an-os-update&quot;&gt;Hold your breath we have an OS update…&lt;/h4&gt;
+&lt;p&gt;Or at least that is how it feels for me. As a new programmer, working with the terminal can be challenging. Take in consideration purchasing and/or updating to a new computer. Giving up all the installations from a previous computer can make anyone go crazy, even with time machine backups. As you can see, I’m talking about mac users because that is my personal preference. I’m sure there are steps with other operating systems to ensure your data transfers over. Nevertheless, you feel as though you are starting from scratch when opening up the terminal. The real tricky part is when your computer has an update. In the time that I’ve been coding I’ve gone through a handful with Apple and the most recent being Mojave.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mojave.jpeg&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every time I upgrade, I feel as though I run this risk of losing my ability to utilize this site. Working with Jekyll and Ruby Gems come with risks and rewards. I love the use of Jekyll’s static blog site however every time there is a new update, the gems require updating as well, all of which leaves me wondering if there is an expiration date on &lt;a href=&quot;https://stahlwalker.org/&quot;&gt;Stahlwalker.org&lt;/a&gt;. If you are wondering where I have been the past couple months it’s had a lot to do with complications between Jekyll, Mojave and GitHub. The first error I had was getting Jekyll to preview on localhost. Once I was able to preview my site to make changes, I was unable to push the code through to GitHub. I was dealing with a symbolic link issue and GitHub was asking me to remove the code from my site repository, however my editor would not allow me to delete it. So, what did I do to get the ball rolling again?&lt;/p&gt;
+
+&lt;p&gt;Like most programmers it started with Google, however after days of searching I had to do what I was taught as web developers and take a step back. So, a couple weeks went by, my reminder to fix the error kept getting pushed further and further down the line. The thought process that one day this site might deliver a 404 error &lt;img src=&quot;/img/404.png&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt; to all visitors because I either crashed it downloading someone’s recommendation via Stack Overflow or simply zero activity was rapidly keeping me up at night. After waiting and revisiting the issue, I resorted to putting my faith in Google again and I was able to come to the solution. I needed to add a .gitignore file to ignore my vendor files. This would avoid pushing the symbolic link to GitHub and sure enough &lt;strong&gt;IT WORKED&lt;/strong&gt;. Hallelujah I was back up and running again.&lt;/p&gt;
+
+&lt;p&gt;Still the notion of until next time lingers in the back of my mind because with all software comes updates and these major operating software updates are ticking time bombs. So, don’t be surprised, if you see me go months and months at end without a post. You’ll know the root cause if you start seeing the 404 error. That or it means I did it, I finally broke my site, at this point I’m beginning to think it’s inevitable. The positive outlook on this is with Google you can always find a way. I’d like to thank all the better programmers out there for saving me over and over again, I don’t know where I would be without your help. Thank you, Stack Overflow, and a special thank you to the developer community.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot;&gt;Jekyll &amp;amp; macOS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/stackoverflow.png&quot; alt=&quot;HERE&quot; style=&quot;float: center;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+</description>
+        <pubDate>Sat, 16 Mar 2019 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tech/jekyll-and-macOS</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/jekyll-and-macOS</guid>
+        
+        <category>macOS</category>
+        
+        <category>updates</category>
+        
+        <category>stack-overflow</category>
+        
+        <category>mojave</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>Switching Industries</title>
@@ -702,47 +751,6 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
         <category>facebook</category>
         
         <category>open-graphs</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>The Road So Far...</title>
-        <description>&lt;h4 id=&quot;here-is-what-ive-learned-so-far&quot;&gt;Here is what I’ve learned so far:&lt;/h4&gt;
-&lt;p&gt;I’ve spent the last 4.5 months attending a Northwestern University Web Programming Boot Camp and here are a couple key takeaways for those thinking about becoming a web developer.&lt;/p&gt;
-
-&lt;p&gt;While attending this boot camp, I have been doubling down on Udemy courses to further understand the why behind the how.  Northwestern does a good job of showing you how to code but a poor job of explaining the why we use different programming languages.  Northwestern alone wasn’t enough, and the idea that it’s for beginners is incredibly misleading.  For those looking to learn web programming, I’d suggest taking an online boot camp on Udemy for $20 versus the financial investment of a physical six-month program.&lt;/p&gt;
-
-&lt;p&gt;If I could go back and do things over again, I would spend more time building my foundation prior to starting. There are hundreds of resources out there but I highly recommend Udemy. The ability to bookmark your notes and have lifetime access is a great reference. You also get certificates for completing courses which you can showcase.&lt;/p&gt;
-
-&lt;p&gt;The pros regarding Northwestern fall on the workload.  Students are forced to put in the work at an incredibly fast pace. With online boot camps students can learn at their own pace, it doesn’t work that way with a six-month program. Learning at your own pace can drag depending on your availability. It’s much easier to get to the assignment later when it doesn’t actually have a due date. Also, having the ability to work with others, on activities and projects is a major plus. Working with other students leads to better team building experiences and real-life scenarios. As a developer, you will be tasked to work on specific sections of a project with other developers, it won’t all be on your shoulders. Gaining that working experience is something you can only really do in a classroom setting. Northwestern also offers tutoring sessions weekly, which allows you to video conference with an expert to further enhance your skillset. These are all great resources one can only get from a physical boot camp.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;What I would change?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It’s important to know that because this program is only six months, they do run on a pretty strict schedule. If you think you are going to get all your questions answered you are mistaken. They simply do not have the time to stay on one subject for too long. That is where the how comes in and not the why. There simply isn’t enough time. I think less activities and more teaching would be better suited for this program. Often this program requires you to work on activities before actually explaining the topic, this can be difficult when it’s a new subject matter that has never introduced. My advice, bulk up on tutorials prior to taking a physical boot camp and I when I say bulk up, I mean a lot. The more you know the better because it is definitely not a beginner’s course. Lastly, enroll in an online boot camp that mirrors the boot camp you are taking in order to get the why and not just the how. Take it from someone who has spent the last couple months playing catch up with online tutorials and attending “office hours” before each class, it would have made learning easier if I was self-teaching through an online boot camp that ran parallel with Northwestern.&lt;/p&gt;
-
-&lt;p&gt;It’s amazing that we have these tutorials readily available for us and if you are like me, you’ll find yourself with a never-ending wish list of tutorials once you get going.&lt;/p&gt;
-
-&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
-
-</description>
-        <pubDate>Mon, 02 Apr 2018 02:52:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/my-journey</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/my-journey</guid>
-        
-        <category>boot-camp</category>
-        
-        <category>udemy</category>
-        
-        <category>web</category>
-        
-        <category>programming</category>
-        
-        <category>northwestern</category>
         
         
         <category>Tech</category>
