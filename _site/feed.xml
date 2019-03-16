@@ -5,14 +5,16 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Mar 2019 13:21:15 -0500</pubDate>
-    <lastBuildDate>Sat, 16 Mar 2019 13:21:15 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2019 13:25:01 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Mar 2019 13:25:01 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>One Small Step for Man…</title>
         <description>&lt;h4 id=&quot;hold-your-breath-we-have-an-os-update&quot;&gt;Hold your breath we have an OS update…&lt;/h4&gt;
-&lt;p&gt;Or at least that is how it feels for me. As a new programmer, working with the terminal can be challenging. Take in consideration purchasing and/or updating to a new computer. Giving up all the installations from a previous computer can make anyone go crazy, even with time machine backups. As you can see, I’m talking about mac users because that is my personal preference. I’m sure there are steps with other operating systems to ensure your data transfers over. Nevertheless, you feel as though you are starting from scratch when opening up the terminal. The real tricky part is when your computer has an update. In the time that I’ve been coding I’ve gone through a handful with Apple and the most recent being Mojave.&lt;/p&gt;
+&lt;p&gt;Or at least that is how it feels for me. As a new programmer, working with the terminal can be challenging. Take in consideration purchasing and/or updating to a new computer. Giving up all the installations from a previous computer can make anyone go crazy, even with time machine backups.&lt;/p&gt;
+
+&lt;p&gt;As you can see, I’m talking about mac users because that is my personal preference. I’m sure there are steps with other operating systems to ensure your data transfers over. Nevertheless, you feel as though you are starting from scratch when opening up the terminal. The real tricky part is when your computer has an update. In the time that I’ve been coding I’ve gone through a handful with Apple and the most recent being Mojave.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/mojave.jpeg&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 

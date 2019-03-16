@@ -8,7 +8,9 @@ category: Tech
 tags: macOS updates stack-overflow mojave jekyll
 ---
 #### Hold your breath we have an OS update… 
-Or at least that is how it feels for me. As a new programmer, working with the terminal can be challenging. Take in consideration purchasing and/or updating to a new computer. Giving up all the installations from a previous computer can make anyone go crazy, even with time machine backups. As you can see, I’m talking about mac users because that is my personal preference. I’m sure there are steps with other operating systems to ensure your data transfers over. Nevertheless, you feel as though you are starting from scratch when opening up the terminal. The real tricky part is when your computer has an update. In the time that I’ve been coding I’ve gone through a handful with Apple and the most recent being Mojave. 
+Or at least that is how it feels for me. As a new programmer, working with the terminal can be challenging. Take in consideration purchasing and/or updating to a new computer. Giving up all the installations from a previous computer can make anyone go crazy, even with time machine backups. 
+
+As you can see, I’m talking about mac users because that is my personal preference. I’m sure there are steps with other operating systems to ensure your data transfers over. Nevertheless, you feel as though you are starting from scratch when opening up the terminal. The real tricky part is when your computer has an update. In the time that I’ve been coding I’ve gone through a handful with Apple and the most recent being Mojave. 
 
 ![Div](/img/mojave.jpeg){:style="float: right;margin-left: 7px;margin-top: 7px; position: relative"}{:class="img-responsive"}
 
