@@ -198,7 +198,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start 
 --*/
 #call-to-action {
-  background: url("../img/gadgets.jpg") no-repeat;
+  background: url("../img/hummingbird.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
@@ -228,6 +228,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action p {
   font-size: 14px;
   line-height: 1.6;
+  font-weight: bold;
 }
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
