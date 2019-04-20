@@ -858,10 +858,10 @@ footer .footer-manu ul li a:hover {
 }
 
 /* Facebook button */
-.fa-facebook-official {
+.fa-facebook {
   color: #3b5998;
 }
-.fa-facebook-official:hover {
+.fa-facebook:hover {
   background-color: #3b5998;
 }
 
@@ -873,20 +873,12 @@ footer .footer-manu ul li a:hover {
   background-color: #55acee;
 }
 
-/* Google-PLus button */
-.fa-google-plus {
-  color: #dd4b39;
-}
-.fa-google-plus:hover {
-  background-color: #dd4b39;
-}
-
 /* Pinterest button */
-.fa-pinterest-p {
+.fa-pinterest {
   color: #cb2027;
 }
-.fa-pinterest-p:hover {
-  background-color: #cb2027;
+.fa-pinterest:hover {
+  background-color: white;
 }
 
 /* LinkedIn button */
