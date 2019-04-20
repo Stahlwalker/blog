@@ -5,9 +5,68 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Apr 2019 06:17:06 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Apr 2019 06:17:06 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Apr 2019 09:28:45 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Apr 2019 09:28:45 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>You’ve Got Email</title>
+        <description>&lt;h4 id=&quot;basic-essentials-for-a-successful-email-nurture-campaign&quot;&gt;Basic essentials for a successful email nurture campaign:&lt;/h4&gt;
+&lt;p&gt;In order to develop a marketing email campaign, you have to break it down into 3 tiers, &lt;strong&gt;NEED&lt;/strong&gt;, &lt;strong&gt;LEARN&lt;/strong&gt;, and &lt;strong&gt;PATH TO LOYALTY&lt;/strong&gt;. Now path to loyalty can mean a couple of different things, it could be path to paid, path to ambassador, basically it’s the end funnel of your desired outcome. Note that I’m assuming you have some sort of working marketing automation software in place such as Marketo, MailChimp or HubSpot. I’ve added links to them to the related resource section but that would be the absolute first step above all. So, let’s get started… 
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Need2.png&quot; alt=&quot;Div&quot; style=&quot;float: left;margin-right: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+What is need? Need is a nurture campaign developed to target those that do not know about your product/service. It’s an educational drip campaign that guides customers through to sign up. At this point of the campaign it’s about awareness and improving open rates, reducing unsubscribe rates and sharing exciting offerings.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Note that there is a fine line of over sharing, people do not want to be spammed so setting up a reasonable timeline with these emails is crucial. The ideal goal is around 6 emails in any nurture stream. An example of one that I’ve created follows a developer event and lasts the course of 3 weeks. Immediately after the event they are followed with a thank you for attending, then 3 days later information about what I’m offering. Then a week later some exciting news, followed by comparison of plan offerings a week later, and ultimately a final reminder email. All of which, this email campaign lasts roughly 3 weeks. This span of 3 weeks is a good time frame that doesn’t annoy customers but keeps them engaged. Remember the goal isn’t to increase your unsubscribe list.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/Learn2.png&quot; alt=&quot;Div&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt; 
+Following sign up these customers will be added to the learn campaign which is a retention stream. The goal of this nurture campaign is to keep people engaged and constantly learning about the benefits of your product/service. A great example is sharing advanced how-to tutorials. It’s not about selling the product, people are already invested, it’s about benefiting them so that they will ultimately become advocates/ambassadors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/Loyalty.jpeg&quot; alt=&quot;Div&quot; style=&quot;float: left;margin-right: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+Path to loyalty is the final stream in an email marketing campaign, it’s for those customers that are very active with your product/service. Those that may be on the brink of moving from a free plan to a pro plan. Usually a pro plan has a monetary value in which the email nurture campaign starts to achieve ROI.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Now that you have the basic setup or as I like to think about it as a solid foundation you can start brainstorming about what topics you want to cover. That is the tricking part, plugging the content into each nurture stream. As with any email campaign content is king. Luckily for us all we have the internet to help come up with great ideas. Another useful tip would be to watch some email marketing tutorials and see what other people created. From those videos you can dissect which emails should fall into your need, learn or path to loyalty streams. Lastly actually mapping out your stream with PowerPoint or say Mindjet software. I really enjoy Mindjet, so I’ve shared the link below.&lt;/p&gt;
+
+&lt;p&gt;As always, best of luck to you out there!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.marketo.com/solutions/email-marketing/&quot;&gt;Marketo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hubspot.com/&quot;&gt;HubSpot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindjet.com/&quot;&gt;MindJet MindManager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+</description>
+        <pubDate>Sat, 20 Apr 2019 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/marketing/email-marketing</link>
+        <guid isPermaLink="true">http://localhost:4000/marketing/email-marketing</guid>
+        
+        <category>email</category>
+        
+        <category>marketing</category>
+        
+        <category>mail</category>
+        
+        <category>marketing-automation</category>
+        
+        
+        <category>Marketing</category>
+        
+      </item>
     
       <item>
         <title>One Small Step for Man…</title>
@@ -712,47 +771,6 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
         <category>footer</category>
         
         <category>stack-overflow</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>Oh My Metadata</title>
-        <description>&lt;h4 id=&quot;avoiding-the-rabbit-hole&quot;&gt;Avoiding the rabbit hole:&lt;/h4&gt;
-&lt;p&gt;I want to set the record straight right away and save you a lot of time, be aware of social cache. After implementing the share functionality, I made the mistake of testing my blog posts with Facebook, Twitter, and LinkedIn. I encountered a number of issues along the way.&lt;/p&gt;
-
-&lt;p&gt;First, the share functionality worked. The problem existed with the display, I wasn’t sharing the blog post image or post description, rather the websites main image and description.  After researching the web, I found that I needed to add metadata to specifically call out the meta content. I had to add metadata to include page title, description, URL, and image.  Adding metadata was just the beginning of my decent, I had to use Facebook Open Graph Tags as well.&lt;/p&gt;
-
-&lt;p&gt;In order to use open graphs, I had to register with Facebook as a developer. Once I registered I was given a “app_id” which had to be added to the meta tag.  After I added the app id on the meta tag, I was able to validate with Facebook in their &lt;a href=&quot;https://developers.facebook.com/tools/debug/&quot;&gt;Sharing Debugger&lt;/a&gt;. The sharing debugger confirmed how my shared post would look, and it was accurate.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hooorayyyy, but wait, what about Twitter?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Twitter follows a similar path; however, you do not need to obtain a developer app id. You can preview your shared post at their &lt;a href=&quot;https://cards-dev.twitter.com/validator&quot;&gt;Twitter Card Validator&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Searching how to add the metadata was easy, not knowing social sites cache your initial post was the biggest hurdle to cross. Ultimately it disrupted any further attempt to share. Even if I went back and deleted the previously shared post via Twitter, LinkedIn or Facebook, the next time I shared that post it populated the same incorrect post. That means, I was missing the image that corresponded with the post image, and the description, even though both validators we correct.&lt;/p&gt;
-
-&lt;p&gt;I realized that whenever I upload a new blog, Facebook’s sharing debugger needs to scrape the URL to obtain the meta tags and display it correctly. If I do not scrape each new blog post, Facebook will not recognize it and will not share it properly.&lt;/p&gt;
-
-&lt;p&gt;Key takeaway, for testing purposes, make sure you have completed your post before sharing. Once it has been shared, social media platforms will cache it and you won’t be given the opportunity to correct it. It’s important to know that as long as you have the metadata and open graphs your followers or visitors will have no problem sharing your posts. Without metadata the share ability is limited to your overall site, which will jeopardize your blog posts. Do you really want to share the same image and description over and over again? Metadata even with its hurdles and endless rabbit holes to climb down is an absolute must.&lt;/p&gt;
-
-&lt;p&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/p&gt;
-
-&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
-
-</description>
-        <pubDate>Mon, 09 Apr 2018 11:32:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/meta-data</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/meta-data</guid>
-        
-        <category>metadata</category>
-        
-        <category>social</category>
-        
-        <category>facebook</category>
-        
-        <category>open-graphs</category>
         
         
         <category>Tech</category>
