@@ -8,7 +8,9 @@ category: Marketing
 tags: email marketing mail marketing-automation
 ---
 #### Basic essentials for a successful email nurture campaign: 
-In order to develop a marketing email campaign, you have to break it down into 3 tiers, **NEED**, **LEARN**, and **PATH TO LOYALTY**. Now path to loyalty can mean a couple of different things, it could be path to paid, path to ambassador, basically it’s the end funnel of your desired outcome. Note that I'm assuming you have some sort of working marketing automation software in place such as Marketo, MailChimp or HubSpot. I've added links to them to the related resource section but that would be the absolute first step above all. So, let's get started... 
+In order to develop a marketing email campaign, you have to break it down into three tiers, **NEED**, **LEARN**, and **PATH TO LOYALTY**. Now path to loyalty can mean a couple of different things, it could be path to paid, path to ambassador, basically it’s the end funnel of your desired outcome. 
+
+Note that I'm assuming you have some sort of working marketing automation software in place such as Marketo, MailChimp or HubSpot. I've added links to them to the related resource section but that would be the absolute first step above all. So, let's get started... 
 <br>
 <br>
 
@@ -16,7 +18,7 @@ In order to develop a marketing email campaign, you have to break it down into 3
 What is need? Need is a nurture campaign developed to target those that do not know about your product/service. It’s an educational drip campaign that guides customers through to sign up. At this point of the campaign it’s about awareness and improving open rates, reducing unsubscribe rates and sharing exciting offerings. 
 
 <br>
-Note that there is a fine line of over sharing, people do not want to be spammed so setting up a reasonable timeline with these emails is crucial. The ideal goal is around 6 emails in any nurture stream. An example of one that I’ve created follows a developer event and lasts the course of 3 weeks. Immediately after the event they are followed with a thank you for attending, then 3 days later information about what I'm offering. Then a week later some exciting news, followed by comparison of plan offerings a week later, and ultimately a final reminder email. All of which, this email campaign lasts roughly 3 weeks. This span of 3 weeks is a good time frame that doesn’t annoy customers but keeps them engaged. Remember the goal isn’t to increase your unsubscribe list. 
+Note that there is a fine line of over sharing, people do not want to be spammed so setting up a reasonable timeline with these emails is crucial. The ideal goal is around six emails in any nurture stream. An example of one that I’ve created follows a developer event and lasts the course of three weeks. Immediately after the event they are followed with a thank you for attending, then three days later information about what I'm offering. Then a week later some exciting news, followed by a comparison of plan offerings a week later, and ultimately a final reminder email. All of which, this email campaign lasts roughly three weeks. This span of three weeks is a good time frame that doesn’t annoy customers but keeps them engaged. Remember the goal isn’t to increase your unsubscribe list. 
 
 <br>
 ![Div](/img/Learn2.png){:style="float: right;margin-left: 7px;margin-top: 7px; position: relative"}{:class="img-responsive"} 
