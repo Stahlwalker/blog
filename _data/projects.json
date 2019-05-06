@@ -96,6 +96,14 @@
         "url": "https://stahlwalker.github.io/TriviaGame/"
     },
     {
+        "category": "Websites",
+        "img": "img/portfolio/fantasy.png",
+        "alt": "fantasy football",
+        "title": "Fantasy Football Legends",
+        "content": "Using Materialize CSS to create a fantasy football app, purely for fun",
+        "url": "https://stahlwalker.github.io/fantasyfootball/"
+    },
+    {
         "category": "Apps",
         "img": "img/portfolio/dog.gif",
         "alt": "animal giphy app",
