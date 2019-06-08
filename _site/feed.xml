@@ -5,8 +5,8 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 May 2019 07:12:04 -0500</pubDate>
-    <lastBuildDate>Mon, 20 May 2019 07:12:04 -0500</lastBuildDate>
+    <pubDate>Sat, 08 Jun 2019 06:46:31 -0500</pubDate>
+    <lastBuildDate>Sat, 08 Jun 2019 06:46:31 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -491,7 +491,7 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
   &lt;li&gt;
     &lt;p&gt;Favicon Test:&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A favicon image is the main sites image. It is displayed on browser tab and when it's shared across social media channels. You will also notice that the favicon displays when the URL is shared through text messaging. Here is a link to a favicon generator that I prefer https://www.visiospark.com/apple-touch-icon-favicon-generator       
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A favicon image is the main sites image. It is displayed on browser tab and when it's shared across social media channels. You will also notice that the favicon displays when the URL is shared through text messaging. Here is a link to a favicon generator that I prefer https://iconifier.net/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -663,7 +663,7 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
   &lt;li&gt;&lt;a href=&quot;https://toolbox.seositecheckup.com/&quot;&gt;SEO Toolbox&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.minifier.org/&quot;&gt;JS &amp;amp; CSS minifier&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.addthis.com/?utm_expid=12961876-41.5y4JCz2XROeUlBhVUbk2fg.0&quot;&gt;AddThis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.visiospark.com/apple-touch-icon-favicon-generator/&quot;&gt;Favicon &amp;amp; Apple Touch Generator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iconifier.net/&quot;&gt;Favicon &amp;amp; Apple Touch Generator&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.google.com/webmasters/tools/home?hl=en&quot;&gt;Google Search Console&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
