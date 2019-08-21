@@ -5,9 +5,77 @@
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jul 2019 15:46:59 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Jul 2019 15:46:59 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Aug 2019 14:19:51 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Aug 2019 14:19:51 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Finding your marketing compass</title>
+        <description>&lt;h4 id=&quot;navigating-the-marketing-waters&quot;&gt;Navigating the marketing waters:&lt;/h4&gt;
+&lt;p&gt;With all the different marketing titles out there in the industry, how do you know which one is right for you?&lt;/p&gt;
+
+&lt;p&gt;As someone that didn’t initially set out to become a marketer, I had to navigate the water with more of a learn on the fly approach. I wish I had the knowledge that marketing is where I wanted my career to end up earlier rather than later. I also wish I had the blueprints of how marketing teams are broken down because it’s difficult to redirect once you have gone down the rabbit hole, without taking a step back. Marketing teams are evolving, and branches have developed. Now people are going to school for these specific branches rather than marketing as a whole, so it’s important to know what these branches consist of before you dive in.&lt;/p&gt;
+
+&lt;p&gt;First, let’s dive into the core elements surrounding marketing - digital, social, traditional, media relations, brand, product and revenue.&lt;br /&gt;
+&lt;img src=&quot;/img/Brand.jpg&quot; alt=&quot;Div&quot; style=&quot;float: center;margin-right: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Digital Marketing&lt;/strong&gt; consists of marketing automation, email marketing, web development and content marketing. It’s also the responsibility of the digital marketing team to act as auditors for the company’s website. Often times content has a set and forget it feel, but some of that content has a lifespan that needs updating. Therefore a constant review to make sure outdated information or broken links don’t exist on your website is crucial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social media&lt;/strong&gt; is pretty clear it represents a strategic marketing approach around social platforms. (See Media Relations below).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Traditional marketing&lt;/strong&gt; or sometimes called regional marketing consists of campaign management that support the organization and the internal clients for the external audiences. Now, I get, it’s confusing when you say internal clients to external audiences, so I’ll break it down further. Within any organization the marketing team is tasked with supporting teams internally to improve their offerings, services etc… which then benefits the external audiences. This isn’t internal communications; you aren’t looking to educate coworkers. Your clients are your coworkers and you’re improving their services. I’ve spent a large part of my career marketing in the healthcare industry, so I’ll break it down as follows; the internal clients were the doctors for a specific service line (let’s say orthopedics), and I was tasked with promoting their services to the external audiences (patients), to boost referrals/visits which then increased revenue (ROI).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Media relations&lt;/strong&gt; are individuals within the marketing team that work with media outlets such as news agencies to handle press releases and newsworthy events. They play a major factor when a crisis happens, trying to get in front of the negative news before it harms the organization. They are also there to promote the positive news and monitor what is being said throughout different media channels. Note the media relations team usually work closely with the social media teams because they will source the news through social eventually, so it’s important to be in lock step with one another. The difference between media relations and social media is, media relations will be doing the journalist work that social media marketers will not. Media relations will interview, quote and publish with other news outlets to voice the organizations opinions. Social media marketers will share these stories on social platforms for exposure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brand&lt;/strong&gt; is probably the most creative of all because it sets the standard for the companies look and feel. Usually the brand team creates guidelines for the organization that include assets to be used across the system. Without these guidelines the term rogue comes into effect. It’s never a good thing when there is no control over brand colors, logos, collateral, font etc.… it’s important for the brand team to play sheriff within the marketing department and organization as a whole. The reason I say they are most creative because they set the tone and often times are building brand awareness. Usually this consist of creating some sort of theme around your organization that can either stick forever, for a while or for a short period of time. Regardless, you get come up with that creative narrative for the entire organization not just a service.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product marketers&lt;/strong&gt; are really the technical no it alls of the marketing world. It’s their job to know the product/service inside and out. They set the narrative for what a product/service offers. The narrative can then stem from the facts surrounding those products/service for other marketing departments to get creative. Typically when building out a campaign the product team is in there as fact checkers. If you are marketing the new iPhone and going to launch a global campaign, it’s important to have the stat sheet of upgrades such as the A11 chip or A12 chip. The product marketing team will be your best bet for the more technical questions around the product and do not dive into the creative messaging.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revenue marketing&lt;/strong&gt; can fall into traditional marketing but depending on how far along or how large your organization is you may want a team that focuses solely on larger enterprise accounts. Traditional marketing may want to focus on simply getting people’s foot in the door and revenue marketing will focus on those that have significant financial influence. It’s the comparison of a one off versus a contract. Simple way to put it, Revenue marketing is enterprise marketing with a much higher objective on increasing revenue. They have more ties to the sales teams and are targeting individuals that are further down the marketing funnel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Mkt-Funnel.png&quot; alt=&quot;Div&quot; style=&quot;float: left;margin-right: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;strong&gt;So what are the takeaways?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are looking to put your foot into each area a little bit, traditional marketing really captures all of this. However, if you have a passion for one over the other start with that out of the gate because once you go down a specific path it’s harder to crossover. When I got into marketing, I never really knew of the title web marketing manager. This is a role that would be in the digital marketing team and I absolutely love it. It’s someone that works on the website and is in lock step with the content team. Since, I’m a developer I have the capabilities of working in this role, but my background is not comparable to someone who has only worked in web marketing, which if an organization wants to hire someone with the best experience I will most likely lose out. That is one of the biggest impacts I see within these branches of marketing. What used to be a jack of a trades is getting pushed aside for someone that specializes solely in one area. As a marketer, I’ve done tons of social media marketing, but I’m not a social media marketing manager, therefore trying to be one I would be at a disadvantage. The upside to traditional marketing is having knowledge of all departments make you better suited for management. Those that only have experience doing one will not have the strengths to manage other departments under the marketing umbrella. A social media manager may not be well suited to manage the product marketing team as Director of Marketing. That’s where traditional marketing still has its strengths.&lt;/p&gt;
+
+&lt;p&gt;It’s a fine line of wanting to hone your craft and wanting to be knowledgeable of all strategic marketing efforts. Knowing you have options is fantastic but having an idea of what your career end game is will really put you down the correct path.&lt;/p&gt;
+
+&lt;p&gt;As always, best of luck to you out there!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;related-resources&quot;&gt;Related Resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.hubspot.com/marketing/marketing-jobs&quot;&gt;The Ultimate Guide to Marketing Jobs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
+
+&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 21 Aug 2019 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/marketing/compass</link>
+        <guid isPermaLink="true">http://localhost:4000/marketing/compass</guid>
+        
+        <category>marketing</category>
+        
+        <category>brand</category>
+        
+        <category>digital</category>
+        
+        <category>social</category>
+        
+        <category>revenue</category>
+        
+        <category>product</category>
+        
+        <category>media-relations</category>
+        
+        
+        <category>Marketing</category>
+        
+      </item>
     
       <item>
         <title>Expanding Your Scope</title>
@@ -743,53 +811,6 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
         <category>contact</category>
         
         <category>site-map</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>3 Tips to Creating a Successful Blog with Jekyll</title>
-        <description>&lt;h4 id=&quot;jekyll-static-site-generator&quot;&gt;Jekyll Static Site Generator:&lt;/h4&gt;
-
-&lt;p&gt;I had prior experience with blogging platforms, such as Blogger and WordPress, but the recent launch of &lt;a href=&quot;https://stahlwalker.org/&quot;&gt;Stahlwalker.org&lt;/a&gt; was my first attempt and creating a blog from scratch and using Jekyll helped. 3 tips to know before attempting to use Jekyll.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Be familiar with the command line as you will use it to run your server and if you don’t have ruby gems installed on your computer will have to do so. After Jekyll is installed there are a number of tutorials on YouTube that can help guide you through, but the one that I found to be the most helpful is on Udemy, called Jekyll: make fast, secure sties and blogs with Jekyll. This course has 29 lectures under 3 hours of material and afterwards you will have a working Jekyll blog.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Have a GitHub account. One of the best features with Jekyll is its integration with GitHub. Since, Jekyll works with GitHub you can publish your blog for free instead of going through Digital Ocean, Amazon S3, or Heroku.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Additionally, Cloudflare works with GitHub pages and Jekyll in order to help make domains secure. Creating an account with Cloudflare and then changing the DNS of the custom domain that you purchased to reflect GitHub’s DNS can turn any “Username&lt;span&gt;&lt;/span&gt;.github.&lt;span&gt;&lt;/span&gt;io/appName” into a secure website. I spent a lot of time looking into SSL keys through Digital Ocean and Let’s Encrypt only to find this simpler solution with Cloudflare. The best part about it, it’s free. With Digital Ocean, I was creating droplets that would charge roughly 10 cents a day on top of a $5 a month fee.  It also required way more knowledge of the command line because it integrated Nginx, but that is a tale for another time. Long story short, Cloudflare integrated with GitHub and Jekyll can take your blog post one step further than the initial publishing feature GitHub has to offer. Sure, there are ways of publishing with a CNAME on GitHub, however you’ll notice your site isn’t secure and you have an “!” prior to your URL. &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGwja5X_u_swFYdUwFGqS8RtjR5Kh_B1mpRgv_oVEtD7K0kMZsQ&quot; alt=&quot;Some Title&quot; style=&quot;float: right;margin-left: 7px;margin-top: 7px; position: relative&quot; class=&quot;img-responsive&quot; /&gt; With the way web servers are cracking down on sites that are not secure, it’s important to make sure yours is from the beginning. Imagine all your hard work building a blog, publishing content for 2-3 years, only for Chrome to shut it down or require you purchasing an SSL Key for $75 a year. Save yourself the hassle and get it through Cloudflare, protect your site right out of the gates.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Here are a couple links to help get you started on creating your first Jekyll Blog.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll Install and Walkthrough&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll/learn/v4/overview&quot;&gt;Udemy Jekyll Tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h4 id=&quot;i-hope-this-was-helpful-and-feel-free-to-comment-with-suggestions-or-questions&quot;&gt;I hope this was helpful and feel free to comment with suggestions or questions.&lt;/h4&gt;
-
-&lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: 'Bradley Hand';&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 08:45:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/jekyll-static-blogs</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/jekyll-static-blogs</guid>
-        
-        <category>jekyll</category>
-        
-        <category>blog</category>
-        
-        <category>secure</category>
         
         
         <category>Tech</category>
