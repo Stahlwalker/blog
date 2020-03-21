@@ -18,13 +18,13 @@
 #   title: "Logo Design"
 #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
-- icon: "ion-document-text"
+- icon: "ion-iphone"
   title: "iOS Development"
-  content: "Full stack web developer"
+  content: "App development with Swift"
 
 - icon: "ion-happy"
   title: "Brand Identity"
-  content: "Marketing tips for improving brand identity"
+  content: "Marketing tips and tricks"
   
 # - icon: "ion-earth"
 #   title: "Brand Identity"
