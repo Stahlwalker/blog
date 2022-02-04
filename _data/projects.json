@@ -24,6 +24,14 @@
         "url": "https://stahlwalker.github.io/materialize/"
     },
     {
+        "category": "Websites",
+        "img": "img/portfolio/StarWars.jpg",
+        "alt": "Darth Vadar and an egg",
+        "title": "Stahlwalker Cookbook",
+        "content": "Built with Next.js and Contentful's headless CMS",
+        "url": "https://cookblog.vercel.app/"
+    },
+    {
         "category": "Apps",
         "img": "img/portfolio/face.jpg",
         "alt": "face app",
