@@ -25,7 +25,7 @@
     },
     {
         "category": "Websites",
-        "img": "img/portfolio/StarWars.jpg",
+        "img": "img/portfolio/Starwars.jpg",
         "alt": "Darth Vadar and an egg",
         "title": "Stahlwalker Cookbook",
         "content": "Built with Next.js and Contentful's headless CMS",
