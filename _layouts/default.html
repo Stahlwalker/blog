@@ -1,197 +1,202 @@
 <!DOCTYPE html>
 <!-- This comment line needed for bootstrap to work on mobile devices -->
 <html class="no-js">
-  <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74663039-2"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
 
-        gtag('config', 'UA-74663039-2');
-      </script>
-    <!-- https -->
-    <script type="text/javascript">
-      var host = "stahlwalker.org"; 
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
-    </script>
-    
-    <meta charset="utf-8">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
-    <meta name="description" content="Web design, digital marketing and a tech blog for web programmers.">
-    <meta name="keywords" content="Coding, Programming, Web, Design, Marketing, Digital, Debugging, Stahlwalker, Brand, Developer, Development, Technology, Blog, Media">
-    <meta name="author" content="Lucas Stahl">
-    <base href="{{ site.url }}">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74663039-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    <!-- <base href="https://stahlwalker.github.io/blog/"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-    <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
-    {% feed_meta %}
+    gtag('config', 'UA-74663039-2');
+  </script>
+  <!-- https -->
+  <script type="text/javascript">
+    var host = "stahlwalker.org";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
 
-    <!-- facebook Open Graph Metadatas -->
-    <meta content="159622011388212" property="fb:app_id">
-    <meta content="{{ site.title }}" property="og:site_name">
-    {% if page.title %}
-      <meta content="{{ page.title }}" property="og:title">
-    {% else %}
-      <meta content="{{ site.title }}" property="og:title">
-    {% endif %}
-    {% if page.title %}
-      <meta content="article" property="og:type">
-    {% else %}
-      <meta content="website" property="og:type">
-    {% endif %}
-    {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
-    {% else %}
-      <meta content="{{ site.description }}" property="og:description">
-    {% endif %}
-    {% if page.url %}
-      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {% endif %}
-    {% if page.date %}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-      <meta content="{{ site.url }}/about/" property="article:author">
-    {% endif %}
-    {% if page.image %}
-      <meta content="{{ page.image }}" property="og:image">
-    {% else %}
-      <meta content="https://cdn.dribbble.com/users/571141/screenshots/3549732/untitled-1_1x.jpg" property="og:image">
-    {% endif %}
-    {% if page.categories %}
-      {% for category in page.categories limit:1 %}
-      <meta content="{{ category }}" property="article:section">
-      {% endfor %}
-    {% endif %}
-    {% if page.tags %}
-      {% for tag in page.tags %}
-      <meta content="{{ tag }}" property="article:tag">
-      {% endfor %}
-    {% endif %}
+  <meta charset="utf-8">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
+  <meta name="description" content="Web design, digital marketing and a tech blog for web programmers.">
+  <meta name="keywords"
+    content="Coding, Programming, Web, Design, Marketing, Digital, Debugging, Stahlwalker, Brand, Developer, Development, Technology, Blog, Media">
+  <meta name="author" content="Lucas Stahl">
+  <base href="{{ site.url }}">
+
+  <!-- <base href="https://stahlwalker.github.io/blog/"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
+  {% feed_meta %}
+
+  <!-- facebook Open Graph Metadatas -->
+  <meta content="159622011388212" property="fb:app_id">
+  <meta content="{{ site.title }}" property="og:site_name">
+  {% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+  <meta content="{{ site.title }}" property="og:title">
+  {% endif %}
+  {% if page.title %}
+  <meta content="article" property="og:type">
+  {% else %}
+  <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+  {% else %}
+  <meta content="{{ site.description }}" property="og:description">
+  {% endif %}
+  {% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
+  {% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">
+  {% endif %}
+  {% if page.image %}
+  <meta content="{{ page.image }}" property="og:image">
+  {% else %}
+  <meta content="https://cdn.dribbble.com/users/571141/screenshots/3549732/untitled-1_1x.jpg" property="og:image">
+  {% endif %}
+  {% if page.categories %}
+  {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">
+  {% endfor %}
+  {% endif %}
+  {% if page.tags %}
+  {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">
+  {% endfor %}
+  {% endif %}
 
 
-      <!-- Twitter cards -->
-      <meta name="twitter:site"    content="@LucasStahl11">
-      <meta name="twitter:creator" content="@LucasStahl11">
-      <meta name="twitter:title"   content="{{ page.title }}">
+  <!-- Twitter cards -->
+  <meta name="twitter:site" content="@LucasStahl11">
+  <meta name="twitter:creator" content="@LucasStahl11">
+  <meta name="twitter:title" content="{{ page.title }}">
 
-      {% if page.summary %}
-      <meta name="twitter:description" content="{{ page.summary }}">
-      {% else %}
-      <meta name="twitter:description" content="{{ site.description }}">
-      {% endif %}
+  {% if page.summary %}
+  <meta name="twitter:description" content="{{ page.summary }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
 
-      {% if page.image %}
-      <meta name="twitter:card"  content="summary_large_image">
-      <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-      {% else %}
-      <meta name="twitter:card"  content="summary">
-      <meta name="twitter:image" content="{{ site.title_image }}">
-      {% endif %}
-      <!-- end of Twitter cards -->
+  {% if page.image %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{{ site.title_image }}">
+  {% endif %}
+  <!-- end of Twitter cards -->
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="favapple.png?">
-   
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
- 
-     <link rel="shortcut icon" type="image/x-icon" href="/apple-touch-icon-16x16.ico" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-24x24.png" sizes="24x24" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-32x32.png" sizes="32x32" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-48x48.png" sizes="48x48" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-96x96.png" sizes="96x96" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-128x128.png" sizes="128x128" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-196x196.png" sizes="196x196" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152" />
-     <meta name="application-name" content="Stahlwalker" />
-     <meta name="msapplication-TileColor" content="#fcfcfc" />
-     <meta name="msapplication-square64x64logo" content="https://stahlwalker.org/apple-touch-icon-64x64.png" />
-     <meta name="msapplication-square70x70logo" content="https://stahlwalker.org/apple-touch-icon-70x70.png" />
-     <meta name="msapplication-TileImage" content="https://stahlwalker.org/apple-touch-icon-144x144.png" />
-     <meta name="msapplication-square150x150logo" content="https://stahlwalker.org/apple-touch-icon-150x150.png" />
-     <meta name="msapplication-square310x150logo" content="https://stahlwalker.org/apple-touch-icon-310x150.png" />
-     <meta name="msapplication-square310x310logo" content="https://stahlwalker.org/apple-touch-icon-310x310.png" />
-     
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/owl.carousel.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/ionicons.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    
-    <meta name="theme-color" content="#afecd3"/>
-    <link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" type="image/x-icon" href="favapple.png?">
 
-    <!-- Js -->
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/min/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.js"></script>
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-    <!-- Google Map -->
-    <!-- <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="/apple-touch-icon-16x16.ico" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-24x24.png" sizes="24x24" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-48x48.png" sizes="48x48" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-96x96.png" sizes="96x96" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-128x128.png" sizes="128x128" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-196x196.png" sizes="196x196" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152" />
+  <meta name="application-name" content="Stahlwalker" />
+  <meta name="msapplication-TileColor" content="#fcfcfc" />
+  <meta name="msapplication-square64x64logo" content="https://stahlwalker.org/apple-touch-icon-64x64.png" />
+  <meta name="msapplication-square70x70logo" content="https://stahlwalker.org/apple-touch-icon-70x70.png" />
+  <meta name="msapplication-TileImage" content="https://stahlwalker.org/apple-touch-icon-144x144.png" />
+  <meta name="msapplication-square150x150logo" content="https://stahlwalker.org/apple-touch-icon-150x150.png" />
+  <meta name="msapplication-square310x150logo" content="https://stahlwalker.org/apple-touch-icon-310x150.png" />
+  <meta name="msapplication-square310x310logo" content="https://stahlwalker.org/apple-touch-icon-310x310.png" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/owl.carousel.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <meta name="theme-color" content="#afecd3" />
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- Js -->
+  <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/min/waypoints.min.js"></script>
+  <script src="js/jquery.counterup.js"></script>
+
+  <!-- Google Map -->
+  <!-- <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script src="js/google-map-init.js"></script> -->
 
 
-    <script src="js/main.js"></script>
+  <script src="js/main.js"></script>
+  <script async src="https://cdn.builder.io/js/webcomponents"></script>
 
 
-  </head>
-  <body>
+</head>
+
+<body>
 
 
 
-    <!-- Header Start -->
+  <!-- Header Start -->
   <header>
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           {% include nav.html %}
-          </div>
         </div>
       </div>
-    </header><!-- header close -->
+    </div>
+  </header><!-- header close -->
 
 
-{{ content }}
+  {{ content }}
 
 
 
-    
-    <!-- footer Start -->
-    <footer>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              {% include footer-nav.html %}
-              <p>Copyright &copy; <a href="https://stahlwalker.org">2018 Stahlwalker</a>. All rights reserved.</p>
-            </div>
-          </div>
+
+  <!-- footer Start -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          {% include footer-nav.html %}
+          <p>Copyright &copy; <a href="https://stahlwalker.org">2018 Stahlwalker</a>. All rights reserved.</p>
         </div>
-      </footer>
-              
-              
-    <!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
-              
-      
-      </body>
-  </html>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
+
+
+</body>
+
+</html>
