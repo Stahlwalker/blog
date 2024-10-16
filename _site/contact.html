@@ -1,142 +1,146 @@
 <!DOCTYPE html>
 <!-- This comment line needed for bootstrap to work on mobile devices -->
 <html class="no-js">
-  <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74663039-2"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
 
-        gtag('config', 'UA-74663039-2');
-      </script>
-    <!-- https -->
-    <script type="text/javascript">
-      var host = "stahlwalker.org"; 
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
-    </script>
-    
-    <meta charset="utf-8">
-    <link rel="canonical" href="http://localhost:4000/contact" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Let's Connect</title>
-    <!-- <meta name="description" content="Web design, digital marketing and a tech blog for web programmers."> -->
-    <meta name="description" content="Web design, digital marketing and a tech blog for web programmers.">
-    <meta name="keywords" content="Coding, Programming, Web, Design, Marketing, Digital, Debugging, Stahlwalker, Brand, Developer, Development, Technology, Blog, Media">
-    <meta name="author" content="Lucas Stahl">
-    <base href="http://localhost:4000">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74663039-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    <!-- <base href="https://stahlwalker.github.io/blog/"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    gtag('config', 'UA-74663039-2');
+  </script>
+  <!-- https -->
+  <script type="text/javascript">
+    var host = "stahlwalker.org";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+  <meta charset="utf-8">
+  <link rel="canonical" href="http://localhost:4000/contact" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Let's Connect</title>
+  <!-- <meta name="description" content="Web design, digital marketing and a tech blog for web programmers."> -->
+  <meta name="description" content="Web design, digital marketing and a tech blog for web programmers.">
+  <meta name="keywords"
+    content="Coding, Programming, Web, Design, Marketing, Digital, Debugging, Stahlwalker, Brand, Developer, Development, Technology, Blog, Media">
+  <meta name="author" content="Lucas Stahl">
+  <base href="http://localhost:4000">
+
+  <!-- <base href="https://stahlwalker.github.io/blog/"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Stahlwalker" />
+
+  <!-- facebook Open Graph Metadatas -->
+  <meta content="159622011388212" property="fb:app_id">
+  <meta content="Stahlwalker" property="og:site_name">
   
-    <!-- <link href='https://stahlwalker.github.io/blog/feed.xml' rel='alternate' type='application/atom+xml'> -->
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Stahlwalker" />
-
-    <!-- facebook Open Graph Metadatas -->
-    <meta content="159622011388212" property="fb:app_id">
-    <meta content="Stahlwalker" property="og:site_name">
-    
-      <meta content="Let's Connect" property="og:title">
-    
-    
-      <meta content="article" property="og:type">
-    
-    
-      <meta content="Web design, digital marketing and a tech blog for web programmers." property="og:description">
-    
-    
-      <meta content="http://localhost:4000/contact" property="og:url">
-    
-    
-    
-      <meta content="https://cdn.dribbble.com/users/571141/screenshots/3549732/untitled-1_1x.jpg" property="og:image">
-    
-    
-    
+  <meta content="Let's Connect" property="og:title">
+  
+  
+  <meta content="article" property="og:type">
+  
+  
+  <meta content="Web design, digital marketing and a tech blog for web programmers." property="og:description">
+  
+  
+  <meta content="http://localhost:4000/contact" property="og:url">
+  
+  
+  
+  <meta content="https://cdn.dribbble.com/users/571141/screenshots/3549732/untitled-1_1x.jpg" property="og:image">
+  
+  
+  
 
 
-      <!-- Twitter cards -->
-      <meta name="twitter:site"    content="@LucasStahl11">
-      <meta name="twitter:creator" content="@LucasStahl11">
-      <meta name="twitter:title"   content="Let's Connect">
+  <!-- Twitter cards -->
+  <meta name="twitter:site" content="@LucasStahl11">
+  <meta name="twitter:creator" content="@LucasStahl11">
+  <meta name="twitter:title" content="Let's Connect">
 
-      
-      <meta name="twitter:description" content="Web design, digital marketing and a tech blog for web programmers.">
-      
+  
+  <meta name="twitter:description" content="Web design, digital marketing and a tech blog for web programmers.">
+  
 
-      
-      <meta name="twitter:card"  content="summary">
-      <meta name="twitter:image" content="">
-      
-      <!-- end of Twitter cards -->
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="">
+  
+  <!-- end of Twitter cards -->
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="favapple.png?">
-   
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
- 
-     <link rel="shortcut icon" type="image/x-icon" href="/apple-touch-icon-16x16.ico" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-24x24.png" sizes="24x24" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-32x32.png" sizes="32x32" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-48x48.png" sizes="48x48" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-96x96.png" sizes="96x96" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-128x128.png" sizes="128x128" />
-     <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-196x196.png" sizes="196x196" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144" />
-     <link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152" />
-     <meta name="application-name" content="Stahlwalker" />
-     <meta name="msapplication-TileColor" content="#fcfcfc" />
-     <meta name="msapplication-square64x64logo" content="https://stahlwalker.org/apple-touch-icon-64x64.png" />
-     <meta name="msapplication-square70x70logo" content="https://stahlwalker.org/apple-touch-icon-70x70.png" />
-     <meta name="msapplication-TileImage" content="https://stahlwalker.org/apple-touch-icon-144x144.png" />
-     <meta name="msapplication-square150x150logo" content="https://stahlwalker.org/apple-touch-icon-150x150.png" />
-     <meta name="msapplication-square310x150logo" content="https://stahlwalker.org/apple-touch-icon-310x150.png" />
-     <meta name="msapplication-square310x310logo" content="https://stahlwalker.org/apple-touch-icon-310x310.png" />
-     
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/owl.carousel.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/ionicons.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    
-    <meta name="theme-color" content="#afecd3"/>
-    <link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" type="image/x-icon" href="favapple.png?">
 
-    <!-- Js -->
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/min/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.js"></script>
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-    <!-- Google Map -->
-    <!-- <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="/apple-touch-icon-16x16.ico" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-24x24.png" sizes="24x24" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-48x48.png" sizes="48x48" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-96x96.png" sizes="96x96" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-128x128.png" sizes="128x128" />
+  <link rel="shortcut icon" type="image/png" href="/apple-touch-icon-196x196.png" sizes="196x196" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152" />
+  <meta name="application-name" content="Stahlwalker" />
+  <meta name="msapplication-TileColor" content="#fcfcfc" />
+  <meta name="msapplication-square64x64logo" content="https://stahlwalker.org/apple-touch-icon-64x64.png" />
+  <meta name="msapplication-square70x70logo" content="https://stahlwalker.org/apple-touch-icon-70x70.png" />
+  <meta name="msapplication-TileImage" content="https://stahlwalker.org/apple-touch-icon-144x144.png" />
+  <meta name="msapplication-square150x150logo" content="https://stahlwalker.org/apple-touch-icon-150x150.png" />
+  <meta name="msapplication-square310x150logo" content="https://stahlwalker.org/apple-touch-icon-310x150.png" />
+  <meta name="msapplication-square310x310logo" content="https://stahlwalker.org/apple-touch-icon-310x310.png" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/owl.carousel.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <meta name="theme-color" content="#afecd3" />
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- Js -->
+  <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/min/waypoints.min.js"></script>
+  <script src="js/jquery.counterup.js"></script>
+
+  <!-- Google Map -->
+  <!-- <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script src="js/google-map-init.js"></script> -->
 
 
-    <script src="js/main.js"></script>
+  <script src="js/main.js"></script>
+  <script async src="https://cdn.builder.io/js/webcomponents"></script>
 
 
-  </head>
-  <body>
+</head>
+
+<body>
 
 
 
-    <!-- Header Start -->
+  <!-- Header Start -->
   <header>
     <div class="container">
       <div class="row">
@@ -176,13 +180,13 @@
                   </div><!-- /.container-fluid -->
                 </nav>
 
-          </div>
         </div>
       </div>
-    </header><!-- header close -->
+    </div>
+  </header><!-- header close -->
 
 
-         <!-- Slider Start -->
+           <!-- Slider Start -->
    <section id="global-header">
     <div class="container">
       <div class="row">
@@ -288,34 +292,34 @@
 
 
 
-    
-    <!-- footer Start -->
-    <footer>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="footer-manu">
-        <ul>
-          <li><a href="https://stahlwalker.org/about">About</a></li>
-          <li><a href="https://stahlwalker.org/contact">Contact</a></li>
-          <li><a href="https://stahlwalker.org/privacy">Privacy Policy</a></li>
-          <li><a href="https://stahlwalker.org/terms">Terms</a></li>
-          <li><a href="https://stahlwalker.org/sitemap">Site Map</a></li>
-          <!-- <li><a href="#">How it works</a></li>
+
+  <!-- footer Start -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="footer-manu">
+  <ul>
+    <li><a href="https://stahlwalker.org/about">About</a></li>
+    <li><a href="https://stahlwalker.org/contact">Contact</a></li>
+    <li><a href="https://stahlwalker.org/privacy">Privacy Policy</a></li>
+    <li><a href="https://stahlwalker.org/terms">Terms</a></li>
+    <li><a href="https://stahlwalker.org/sitemap">Site Map</a></li>
+    <!-- <li><a href="#">How it works</a></li>
           <li><a href="#">Support</a></li>
           <li><a href="#">Terms</a></li> -->
-        </ul>
-      </div>
-
-              <p>Copyright &copy; <a href="https://stahlwalker.org">2018 Stahlwalker</a>. All rights reserved.</p>
-            </div>
-          </div>
+  </ul>
+</div>
+          <p>Copyright &copy; <a href="https://stahlwalker.org">2018 Stahlwalker</a>. All rights reserved.</p>
         </div>
-      </footer>
-              
-              
-    <!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
-              
-      
-      </body>
-  </html>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
+
+
+</body>
+
+</html>
