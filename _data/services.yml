@@ -3,28 +3,28 @@
 #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 - icon: "ion-ios-monitor-outline"
-  title: "Web Design"
-  content: "For beautiful responsive web designs"  
+  title: "Frontend Development"
+  content: "Interfaces, layout, and client-side behavior for the web"
 
 # - icon: "ion-image"
 #   title: "App Design"
 #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-  
+
 - icon: "ion-bug"
   title: "Debugging"
-  content: "Review broken code and debug issues"
-  
+  content: "Identifying failures, tracing causes, and fixing issues"
+
 # - icon: "ion-headphone"
 #   title: "Logo Design"
 #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-  
+
 - icon: "ion-iphone"
   title: "iOS Development"
-  content: "App development with Swift"
+  content: "Designing and building native iOS applications"
 
 - icon: "ion-happy"
   title: "Brand Identity"
-  content: "Marketing tips and tricks"
+  content: "Naming, visual direction, and brand foundations"
   
 # - icon: "ion-earth"
 #   title: "Brand Identity"
