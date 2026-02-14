@@ -3,10 +3,10 @@
   <channel>
     <title>Stahlwalker</title>
     <description>Web design, digital marketing and a tech blog for web programmers.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 May 2025 15:39:32 -0500</pubDate>
-    <lastBuildDate>Mon, 19 May 2025 15:39:32 -0500</lastBuildDate>
+    <link>https://stahlwalker.org/</link>
+    <atom:link href="https://stahlwalker.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Feb 2026 14:50:20 -0600</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 14:50:20 -0600</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Fri, 20 Mar 2020 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/app-development/iOS-development</link>
-        <guid isPermaLink="true">http://localhost:4000/app-development/iOS-development</guid>
+        <link>https://stahlwalker.org/app-development/iOS-development</link>
+        <guid isPermaLink="true">https://stahlwalker.org/app-development/iOS-development</guid>
         
         <category>iOS</category>
         
@@ -95,8 +95,8 @@
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Wed, 21 Aug 2019 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/marketing/compass</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/compass</guid>
+        <link>https://stahlwalker.org/marketing/compass</link>
+        <guid isPermaLink="true">https://stahlwalker.org/marketing/compass</guid>
         
         <category>marketing</category>
         
@@ -160,8 +160,8 @@ As always, best of luck to you out there!!!&lt;/p&gt;
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Thu, 16 May 2019 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/marketing/expanding-scope</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/expanding-scope</guid>
+        <link>https://stahlwalker.org/marketing/expanding-scope</link>
+        <guid isPermaLink="true">https://stahlwalker.org/marketing/expanding-scope</guid>
         
         <category>marketing</category>
         
@@ -219,8 +219,8 @@ Now that you have the basic setup or as I like to think about it as a solid foun
 
 </description>
         <pubDate>Sat, 20 Apr 2019 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/marketing/email-marketing</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/email-marketing</guid>
+        <link>https://stahlwalker.org/marketing/email-marketing</link>
+        <guid isPermaLink="true">https://stahlwalker.org/marketing/email-marketing</guid>
         
         <category>email</category>
         
@@ -268,8 +268,8 @@ Now that you have the basic setup or as I like to think about it as a solid foun
 
 </description>
         <pubDate>Sat, 16 Mar 2019 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/jekyll-and-macOS</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/jekyll-and-macOS</guid>
+        <link>https://stahlwalker.org/tech/jekyll-and-macOS</link>
+        <guid isPermaLink="true">https://stahlwalker.org/tech/jekyll-and-macOS</guid>
         
         <category>macOS</category>
         
@@ -323,8 +323,8 @@ One of the biggest challenges I faced in this new career path was moving from on
 
 </description>
         <pubDate>Thu, 29 Nov 2018 08:00:00 -0600</pubDate>
-        <link>http://localhost:4000/tech/switch-industries</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/switch-industries</guid>
+        <link>https://stahlwalker.org/tech/switch-industries</link>
+        <guid isPermaLink="true">https://stahlwalker.org/tech/switch-industries</guid>
         
         <category>tech</category>
         
@@ -364,8 +364,8 @@ As a marketer you put out fires on a regular basis, it comes with the territory,
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Thu, 18 Oct 2018 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/marketing/yes-man</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/yes-man</guid>
+        <link>https://stahlwalker.org/marketing/yes-man</link>
+        <guid isPermaLink="true">https://stahlwalker.org/marketing/yes-man</guid>
         
         <category>management</category>
         
@@ -440,8 +440,8 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 08:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/what-html-tag</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/what-html-tag</guid>
+        <link>https://stahlwalker.org/tech/what-html-tag</link>
+        <guid isPermaLink="true">https://stahlwalker.org/tech/what-html-tag</guid>
         
         <category>tag</category>
         
@@ -490,8 +490,8 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Tue, 15 May 2018 12:10:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/formspree</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/formspree</guid>
+        <link>https://stahlwalker.org/tech/formspree</link>
+        <guid isPermaLink="true">https://stahlwalker.org/tech/formspree</guid>
         
         <category>formspree</category>
         
@@ -781,8 +781,8 @@ The most common answer amongst the panel in this podcast was &amp;lt;DIV&amp;gt;
 &lt;h3 id=&quot;--man-of-stahl&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color:rgb(50, 126, 235); font-family: &apos;Bradley Hand&apos;;&quot;&gt;- Man of Stahl&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
 </description>
         <pubDate>Mon, 07 May 2018 09:20:00 -0500</pubDate>
-        <link>http://localhost:4000/marketing/SEO</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/SEO</guid>
+        <link>https://stahlwalker.org/marketing/SEO</link>
+        <guid isPermaLink="true">https://stahlwalker.org/marketing/SEO</guid>
         
         <category>seo</category>
         

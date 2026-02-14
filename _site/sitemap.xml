@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/app-development/iOS-development</loc>
+        <loc>https://stahlwalker.org/app-development/iOS-development</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/marketing/compass</loc>
+        <loc>https://stahlwalker.org/marketing/compass</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/marketing/expanding-scope</loc>
+        <loc>https://stahlwalker.org/marketing/expanding-scope</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/marketing/email-marketing</loc>
+        <loc>https://stahlwalker.org/marketing/email-marketing</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/jekyll-and-macOS</loc>
+        <loc>https://stahlwalker.org/tech/jekyll-and-macOS</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/switch-industries</loc>
+        <loc>https://stahlwalker.org/tech/switch-industries</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/marketing/yes-man</loc>
+        <loc>https://stahlwalker.org/marketing/yes-man</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/what-html-tag</loc>
+        <loc>https://stahlwalker.org/tech/what-html-tag</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/formspree</loc>
+        <loc>https://stahlwalker.org/tech/formspree</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/marketing/SEO</loc>
+        <loc>https://stahlwalker.org/marketing/SEO</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/footer</loc>
+        <loc>https://stahlwalker.org/tech/footer</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/jekyll-static-blogs</loc>
+        <loc>https://stahlwalker.org/tech/jekyll-static-blogs</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/stack-overflow</loc>
+        <loc>https://stahlwalker.org/tech/stack-overflow</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/meta-data</loc>
+        <loc>https://stahlwalker.org/tech/meta-data</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/tech/my-journey</loc>
+        <loc>https://stahlwalker.org/tech/my-journey</loc>
     </url>
     
 
@@ -66,7 +66,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/about</loc>
+        <loc>https://stahlwalker.org/about</loc>
     </url>
     
     
@@ -74,7 +74,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/archive</loc>
+        <loc>https://stahlwalker.org/archive</loc>
     </url>
     
     
@@ -82,7 +82,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/blog</loc>
+        <loc>https://stahlwalker.org/blog</loc>
     </url>
     
     
@@ -90,49 +90,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/contact</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/portfolio</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/privacy</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/robot/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/sitemap</loc>
+        <loc>https://stahlwalker.org/contact</loc>
     </url>
     
     
@@ -142,7 +100,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/terms</loc>
+        <loc>https://stahlwalker.org/</loc>
     </url>
     
     
@@ -150,7 +108,49 @@
     
     
     <url>
-        <loc>http://localhost:4000/thanks</loc>
+        <loc>https://stahlwalker.org/portfolio</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://stahlwalker.org/privacy</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://stahlwalker.org/robot/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://stahlwalker.org/sitemap</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://stahlwalker.org/terms</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://stahlwalker.org/thanks</loc>
     </url>
     
     
