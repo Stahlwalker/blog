@@ -16,7 +16,7 @@ Creating a contact form is as simple as 4 steps with Formspree. Included is an e
 4. You are done and should be receiving email notifications. 
 
 ```
-<form action="https://formspree.io/your@email.com"
+<form action="https://formspree.io/your&#64;email.com"
       method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
